@@ -2895,12 +2895,21 @@ background-color: transparent !important
 }
             
 .userPopout-3XzG_A {
-    width: 248px !important
+    width: 248px !important;
 }
             
 .headerNormal-1l1Znk .headerTag-nSOkYt {
-    color: #ff00e2 !important
+    color: #ff00e2 !important;
 }
 .nickname-322DbL {
-    color: #ff00e2 !important
+    color: #ff00e2 !important;
+}
+.size20-2QkeeC {
+    font-size: 18px !important;
+}
+.headerTagUsernameNoNickname-1SSLBc {
+    color: #ff00e2 !important;
+}
+.profileBadges-1dm1_q {
+display: none;
 }
