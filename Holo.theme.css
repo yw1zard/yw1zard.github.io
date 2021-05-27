@@ -2830,10 +2830,25 @@ html:root {
 .channelTextArea-rNsIhG, .scrollableContainer-2NUZem{ 
 background-color: transparent !important
 }
-.activity-fViXj7 {background-color: #161b44;}
-.headerTop-2y3V6H {background-color: #161b44;}
-.avatar-22FtUu {border: none}
-.topSectionSpotify-1lI0-P {background: #161b44;}
-.avatarHint-1E3LMl {top: 0px; left: 0px}
-.theme-dark .newPopoutActivityStyles .spotifyIcon-2J9kSv, .theme-light .newPopoutActivityStyles .spotifyIcon-2J9kSv {display: none}
-.offline-3nJYBR {opacity: 1;}
+.activity-fViXj7 {
+    background-color: #161b44;
+}
+.headerTop-2y3V6H {
+    background-color: #161b44;
+}
+.avatar-22FtUu {
+    border: none;
+}
+.topSectionSpotify-1lI0-P {
+    background: #161b44;
+}
+.avatarHint-1E3LMl {
+    top: 0px; 
+    left: 0px;
+}
+.theme-dark .newPopoutActivityStyles .spotifyIcon-2J9kSv, .theme-light .newPopoutActivityStyles .spotifyIcon-2J9kSv {
+    display: none;
+}
+.offline-3nJYBR {
+    opacity: 1;
+}
