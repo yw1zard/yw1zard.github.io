@@ -2852,3 +2852,52 @@ background-color: transparent !important
 .offline-3nJYBR {
     opacity: 1;
 }
+.avatarPositionNormal-1CZUPk {
+                top: 1px;
+                left: 2px;
+            }
+            
+            #app-mount .avatar-22FtUu {
+                border: 0px !important;
+            }
+            
+            #app-mount .avatarWrapperNormal-2tu8Ts>.wrapper-3t9DeA[style*="width: 80px;"] {
+                width: 248px !important;
+                height: 250px !important;
+            }
+            
+            #app-mount .headerNormal-1l1Znk {
+                padding-top: 250px !important;
+            }
+            
+            .avatarHint-1E3LMl {
+                height: 250px;
+                width: 250px;
+                top: 0px;
+                left: 0px;
+            }
+            
+            #app-mount .profileBanner-33-uE1 {
+                display: none
+            }
+            
+            .headerTop-2y3V6H {
+                padding-top: 16px;
+            }
+            
+            .userPopout-3XzG_A .wrapper-3t9DeA foreignObject {
+                -webkit-mask: none !important;
+                mask: none !important;
+            }
+            
+            .avatarHintInner-2kMTo4 {
+                box-shadow: none;
+            }
+            
+            .userPopout-3XzG_A {
+                width: 248px !important
+            }
+            
+            .headerNormal-1l1Znk .headerTag-nSOkYt {
+                color: #fff !important
+            }
