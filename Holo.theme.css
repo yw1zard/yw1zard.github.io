@@ -2921,3 +2921,9 @@ background-color: transparent !important
 .avatar-1BDn8e {
     border-radius: 0px;
 }
+.theme-dark .lookLink-9FtZy-.colorPrimary-3b3xI6:hover .contents-18-Yxp {
+    background-image: none;
+}
+.bd-addon-list .bd-card-footer button:hover, .bd-button:hover, .bd-modal-wrapper .footer button:hover, .bd-pfbtn:hover, .lookFilled-1Gx00P.colorBrand-3pXr91:hover, .lookFilled-1Gx00P.colorGrey-2DXtkV:hover, .lookGhost-2Fn_0-.colorBrand-3pXr91:hover, .lookGhost-2Fn_0-.colorGrey-2DXtkV:hover, .lookOutlined-3sRXeN.colorBrand-3pXr91:hover {
+    box-shadow: none !important;
+}
