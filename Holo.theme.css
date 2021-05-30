@@ -2889,7 +2889,7 @@ background-color: transparent !important
     color: #ff00e2;
 }
 .headerTop-2y3V6H {
-    padding: 34px 16px 16px;
+    padding: 57px 16px 16px;
 }
 .size14-e6ZScH {
     font-size: 17px; 
@@ -2926,4 +2926,27 @@ background-color: transparent !important
 }
 .bd-addon-list .bd-card-footer button:hover, .bd-button:hover, .bd-modal-wrapper .footer button:hover, .bd-pfbtn:hover, .lookFilled-1Gx00P.colorBrand-3pXr91:hover, .lookFilled-1Gx00P.colorGrey-2DXtkV:hover, .lookGhost-2Fn_0-.colorBrand-3pXr91:hover, .lookGhost-2Fn_0-.colorGrey-2DXtkV:hover, .lookOutlined-3sRXeN.colorBrand-3pXr91:hover {
     box-shadow: none !important;
+}
+ .avatarUploaderInner-2EvNMg {
+    border-radius: 0px;
+}
+            
+ #app-mount .avatarWrapperNormal-2tu8Ts>.wrapper-3t9DeA[style*="width: 80px;"] {
+    width: 120px !important;
+    height: 120px !important;
+}
+            
+.avatarHint-1E3LMl {
+    height: 120px;
+    width: 120px;
+    top: 0px;
+    eft: 0px;
+}
+            
+.profileBanner-33-uE1 {
+    height: 90px
+}
+            
+.profileBanner-33-uE1 {
+    background-image: url("https://cdn.discordapp.com/attachments/847826343878197289/847826371039723520/istockphoto-1071588902-612x612a.jpeg") !important
 }
