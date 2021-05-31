@@ -2969,8 +2969,5 @@ background-color: transparent !important
     display: none;
 }
 .setIdentityLink-OpBDR6 {
-    color: #ff00e2;
-}
-.setIdentityLink-OpBDR6 {
-    text-decoration: underline;
+    display: none;
 }
