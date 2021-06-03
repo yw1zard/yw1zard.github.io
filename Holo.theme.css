@@ -3055,3 +3055,12 @@ background-color: transparent !important
 .colored-1armap .profileBadgeEarlySupporter-2ng_jL {
     background-image: url("https://cdn.discordapp.com/emojis/789902673796136980.png") ; 
 }
+#private-channels-1{
+  display: none;
+}
+.searchBar-6Kv8R2 .searchBarComponent-32dTOx {
+  display: none ; 
+}
+.searchBar-6Kv8R2{
+  height: 9px ;
+}
