@@ -783,9 +783,6 @@ foreignObject[mask*="round-80"] {
 .resultsGroup-r_nuzN {
     border: 2px solid #ff00e2
 }
-.nickname-2gQ76l {
-    line-height: 54px ;
-}
 .emptyPlaceholder-1zh-Eu {
     background-color: #161B44;
 }
@@ -3107,4 +3104,7 @@ background-color: transparent !important
 }
 .base-1x0h_U.muted-3-7c5L {
     text-decoration: underline;
+}
+.nickname-2gQ76l {
+    line-height: 54px ;
 }
