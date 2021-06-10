@@ -2942,11 +2942,11 @@ background-color: transparent !important
     eft: 0px;
 }
             
-.profileBanner-33-uE1 {
+.popoutBanner-19WKGg {
     height: 90px
 }
             
-.profileBanner-33-uE1 {
+.popoutBanner-19WKGg {
     background-image: url("https://cdn.discordapp.com/attachments/847826343878197289/847826371039723520/istockphoto-1071588902-612x612a.jpeg") !important
 }
 .topSectionNormal-2-vo2m .discriminator-xUhQkU {
@@ -3215,4 +3215,13 @@ background-color: transparent !important
 }
 .colored-1armap .profileBadgePartner-j6Lwhr{
     background-image: url("https://cdn.discordapp.com/emojis/836964387742154842.gif") ;
+}
+.theme-dark .tierBody-3aUxuc{
+    background-color: #161b44;
+}
+.guildCard-1ZRYY8{
+    background-color: #161b44;
+}
+.tierHeaderContent-3t3DoO{
+    background-color: #161b44;
 }
