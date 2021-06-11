@@ -3132,10 +3132,6 @@ background-color: transparent !important
     display: none;
 }
             
-.input-cIJ7To:hover {
-    display: none;
-}
-            
 .userPopout-xaxa6l {
     border: 2px solid #ff00e2;
 }
@@ -3242,4 +3238,13 @@ background-color: transparent !important
 }
 .profileBanner-33-uE1 {
     background-image: url("https://cdn.discordapp.com/attachments/852652502067183616/852652519778680913/monkey_d_luffy_and_roronoa_zoro_one_piece_drawn_by_pemu_op__sample-4162602f011580a52c2a04e9864ccc75_.jpeg") ; 
+}
+.nameTagNoCustomStatus-3IWmZC {
+    margin-bottom: 0px; 
+    margin-left: 0px; 
+    margin-top: 0px; 
+}
+.nameTagNoCustomStatus-3IWmZC {
+    padding-top: 15px; 
+    padding-left: 10px; 
 }
