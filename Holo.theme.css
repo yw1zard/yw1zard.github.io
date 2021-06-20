@@ -3267,3 +3267,15 @@ background-color: transparent !important
     padding-top: 20px; 
     padding-left: 10px; 
 }
+.wrapper-PY0fhH {padding-right: 1px;}
+.container-NdaZbY {
+  position:sticky;
+  bottom:0;
+  background-color: #161b44;
+  z-index:1;
+}
+.container-NdaZbY {border-top: 2px solid #ff00e2; border-left: 2px solid #ff00e2; border-right: 2px solid #ff00e2;}
+.pageControlContainer-eP-SVd {margin-top: 1px;}
+.wrapper-PY0fhH.muted-2JBAyG:hover .icon-2yIBmh, .wrapper-PY0fhH.muted-2JBAyG:hover .name-3l27Hl, .wrapper-PY0fhH:hover .icon-2yIBmh, .wrapper-PY0fhH:hover .name-3l27Hl{
+  color: #ff00e2;
+}
