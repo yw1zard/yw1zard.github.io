@@ -3288,3 +3288,6 @@ background-color: transparent !important
 .avatar-3tNQiO {
     border-radius: 0px;
 }
+.disabledButtonWrapper-3wH6-b, .colorGrey-2DXtkV:disabled {
+    background-color: #161b44;
+}
