@@ -3297,3 +3297,63 @@ background-color: transparent !important
 .icon-2IuuZd, .username-3KYl0N{
     color: #fff !important; 
 }
+.theme-dark .newPopoutActivityStyles button, .theme-dark .newProfileActivityStyles button, .theme-light .newPopoutActivityStyles button, .theme-light .newProfileActivityStyles button {
+    border-color: #ff00e2;
+}
+.headerTop-3vNv-a{
+    background-color: #161b44;
+}
+.footer-3UKYOU{
+    background-color: #161b44;
+}
+.colorLink-2vG20E {
+    display: none;
+}
+.discrimBase-24vY8o {
+    color: #ff00e2;
+}
+.nameTag-ECvD8P {
+    padding-top: 60px;
+}
+.nameTag-ECvD8P {
+    padding-left: 20px;
+}
+.nickname-3M3Jfa {
+    color: #ff00e2;
+}
+.copyInput-2rOSt7, .copyInputDefault-21sXtF, .input-cIJ7To {
+    display: none !important ;
+}
+.base-1x0h_U.muted-3-7c5L {
+    display: none !important ;
+}
+.popoutInfo-pKbpvG {
+    background-color: #161b44;
+}
+.headerTop-3vNv-a {
+    padding: 84px 16px 12px;
+}
+.accountProfileCard-1XCH88{
+    background-color: #161b44;
+}
+.fieldList-21DyL8 {
+    background-color: #161b44 !important; 
+}
+.bodyInnerWrapper-26fQXj {
+    background-color: #0f122e ; 
+}
+.aboutMeSection-1Fw5Ia .aboutMeBody-3GuvKk {
+    color: #ff00e2;
+}
+.avatar-1uQSZT {
+    border: none;
+}
+.aboutMeTextarea-1SN7SJ {
+    background-color: #161b44 !important;
+}
+.aboutMeSection-1Fw5Ia .aboutMeBody-3GuvKk {
+    padding-bottom: 5px;
+}
+.discriminator-2C3qJO {
+    color: #ff00e2;
+}
