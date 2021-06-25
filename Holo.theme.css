@@ -3315,3 +3315,9 @@ background-color: transparent !important
 .clipContainer-eeROt0{
     padding-top: 0px;
 }
+.replying-1x3H0T {
+    background-color: transparent!important;
+    background-image: linear-gradient(to right, #ff000050, #FF8C0030, #FFD70030, #00FF0030, #00BFFF30, #BA55D330, #ff000050) !important;
+    background-size: 400% 100% !important;
+    animation: rainbow_animation 6s ease-in-out infinite !important;
+}
