@@ -2812,11 +2812,6 @@ html:root {
     border: none !important
 }
 
-.sidebar-CFHs9e .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:not(.role-3wi9Tf)::before,
-.side-8zPYf6 .item-PXvHYJ:not(.role-3wi9Tf)::before {
-    display: none;
-}
-
 .footer-2yA7Ep,
 .markup-2BOw-j code,
 .markup-2BOw-j code.inline {
@@ -3327,3 +3322,27 @@ background-color: transparent !important
 .markup-2BOw-j a {
     color: #ff00e2;
 }
+.activity-2INFPu {
+    background-color: #0f122e; 
+} 
+.assets-VMAukC img, .gameIcon-_0rmMm{
+    padding-left: 5px; 
+    padding-right: 5px;
+}
+.activity-2INFPu {
+    padding-left: 5px; 
+    padding-right: 5px;
+}
+.activity-2INFPu {
+    padding-top: 10px; 
+    padding-bottom: 10px;
+}
+.bodyInnerWrapper-26fQXj {
+    padding: 0px;
+}
+.rolesList-1geHY1 {
+    padding-left: 9px;
+}
+.userProfileActivity-Bnt1p_{
+    background-color: #0f122e; 
+} 
