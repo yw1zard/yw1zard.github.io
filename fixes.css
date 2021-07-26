@@ -3402,15 +3402,3 @@ background-color: transparent !important
 .markdown-hover {
     display: none;
 }
-#permissions-modal-wrapper .header{
-    background-color: #161b44 !important;
-}
-#permissions-modal-wrapper #permissions-modal{
-    border: 2px solid #ff00e2 !important;
-}
-#permissions-modal-wrapper .role-side{
-    background-color: #161b44 !important;
-}
-#permissions-modal-wrapper .perm-side{
-    background-color: #161b44 !important;
-}
