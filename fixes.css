@@ -1665,12 +1665,6 @@ foreignObject[mask*="round-80"] {
     font-weight: 500
 }
 
-@font-face {
-    font-family: Noto Sans JP;
-    src: url(https://fonts.googleapis.com/css2?family=Noto+Sans+JP);
-    font-weight: bold;
-}
-
 .button-11zvza {
     background-color: #ff00e2
 }
