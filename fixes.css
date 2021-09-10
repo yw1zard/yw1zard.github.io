@@ -3491,7 +3491,11 @@ background-color: transparent !important
     background-repeat: no-repeat;
     background-position: 50%;
     background-size: cover;
+    border-radius: 5px;
 }
 .avatarPositionNormal-aZjAsn{
     top: 56px;
+}
+.popoutBannerPremium-1n96gg{
+     border-radius: 5px;
 }
