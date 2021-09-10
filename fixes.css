@@ -3477,3 +3477,21 @@ background-color: transparent !important
 .partnered-3nJayh{
     margin-top: 5px;
 }
+.sidebar-CFHs9e .side-8zPYf6 #bd-settings-sidebar .ui-tab-bar-item:not(.role-3wi9Tf)::before, .side-8zPYf6 .item-PXvHYJ:not(.role-3wi9Tf)::before{
+    display: none;
+}
+.popoutBanner-19WKGg{
+    width: 300px; 
+    height: 120px;
+}
+.popoutBanner-19WKGg{
+    background-image: url("https://cdn.discordapp.com/attachments/885794762660122644/885794821573312543/b8d7813f5756eab07ab08c42720effcb.gif") !important;
+}
+.popoutBanner-19WKGg{
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: cover;
+}
+.avatarPositionNormal-aZjAsn{
+    top: 56px;
+}
