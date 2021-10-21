@@ -3542,7 +3542,7 @@ background-color: transparent !important
   cursor: pointer;
 }
 #app-mount .search-2oPWTC.open-6_Y_aH .searchBar-3dMhjb {
-  border: 2px solid #ff00e2;
+  border: none !important;
   background-color: #161b44;
 }
 #app-mount .search-2oPWTC.focused-31_ccS {
@@ -3589,7 +3589,7 @@ background-color: transparent !important
   right: -100vmax;
   bottom: -100vmax;
   left: -100vmax;
-  background: rgba(0, 0, 0, 0.5);;
+  background: rgba(0, 0, 0, 0.7);;
   z-index: -1;
   -webkit-backdrop-filter: blur 10px;
           backdrop-filter: blur 10px;
@@ -3817,4 +3817,7 @@ background-color: transparent !important
 
 svg[name="Nova_Download"]{
   background: url(https://nfld99.com/Bkg/80u9AQy.gif) 50% 50%/cover;
+}
+.resultsGroup-r_nuzN {
+    border: none !important ;
 }
