@@ -3538,3 +3538,168 @@ background-color: transparent !important
 .positionContainer-DEuh7X{
     height: 700px;
 }
+#app-mount .search-2oPWTC {
+  order: -1;
+}
+#app-mount .search-2oPWTC:not(.focused-31_ccS) * {
+  cursor: pointer;
+}
+#app-mount .search-2oPWTC.open-6_Y_aH .searchBar-3dMhjb {
+  border: 2px solid #ff00e2;
+  background-color: #161b44;
+  box-shadow: 0 0 calc(var(--glow-intensity) * 20px) calc(var(--glow-intensity) * 5px) rgb(var(--accent), 0.25);
+}
+#app-mount .search-2oPWTC.focused-31_ccS {
+  position: fixed;
+  left: 50%;
+  top: 20%;
+  transform: translateX(-50%);
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 12px;
+}
+#app-mount .search-2oPWTC.focused-31_ccS .searchBar-3dMhjb {
+  background: #161b44;
+  height: 64px;
+  width: 500px;
+  padding: 0 0 0 12px;
+  box-sizing: border-box;
+  border-radius: 12px;
+  border: 3px solid #ff00e2;
+  box-shadow: 0 0 calc(var(--glow-intensity) * 20px) calc(var(--glow-intensity) * 5px) rgb(var(--accent), 0.25);
+  -webkit-animation: fadeIn 0.2s ease forwards;
+          animation: fadeIn 0.2s ease forwards;
+}
+#app-mount .search-2oPWTC.focused-31_ccS .public-DraftEditor-content {
+  cursor: text;
+  font-size: 24px;
+}
+#app-mount .search-2oPWTC.focused-31_ccS .public-DraftEditorPlaceholder-root {
+  font-size: 24px;
+}
+#app-mount .search-2oPWTC.focused-31_ccS .icon-38sknP {
+  width: 56px;
+}
+#app-mount .search-2oPWTC.focused-31_ccS .iconContainer-O4O2CN,
+#app-mount .search-2oPWTC.focused-31_ccS .icon-3cZ1F_ {
+  width: 24px;
+  height: 24px;
+}
+#app-mount .search-2oPWTC.focused-31_ccS::before {
+  content: "";
+  position: fixed;
+  top: -100vmax;
+  right: -100vmax;
+  bottom: -100vmax;
+  left: -100vmax;
+  background: rgba(0, 0, 0, 0.5);;
+  z-index: -1;
+  -webkit-backdrop-filter: blur 10px;
+          backdrop-filter: blur 10px;
+  -webkit-animation: fadeIn 0.2s ease forwards;
+          animation: fadeIn 0.2s ease forwards;
+}
+#app-mount .search-36MZv- {
+  margin: 0 24px 0 0;
+}
+#app-mount .search-36MZv- .icon-38sknP {
+  height: 100%;
+}
+#app-mount .searchBar-3dMhjb {
+  background: rgba(255, 255, 255, 0.05);
+  border: 2px solid transparent;
+  padding: 0;
+  height: 32px;
+  width: 250px;
+  transition: var(--transition);
+  transition-property: border-color;
+}
+#app-mount .searchBar-3dMhjb:hover {
+  border-color: rgba(255, 255, 255, 0.05);
+}
+#app-mount .DraftEditor-root {
+  padding: 0;
+}
+#app-mount .DraftEditor-editorContainer {
+  height: 100%;
+}
+#app-mount .public-DraftEditor-content {
+  display: flex;
+  align-items: center;
+  padding-left: 8px;
+  cursor: pointer;
+}
+#app-mount .public-DraftEditorPlaceholder-root {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  padding-left: 8px;
+}
+#app-mount .container-3ayLPN {
+  position: fixed;
+  left: 50%;
+  top: calc(20% + 76px);
+  transform: translateX(-50%);
+  width: 500px !important;
+  box-sizing: border-box;
+  border-radius: 12px;
+  background: #161b44;
+  border: 0px solid #ff00e2;
+  box-shadow: var(--shadow-lg);
+  max-height: 60vh;
+  overflow: hidden auto;
+}
+#app-mount .resultsGroup-r_nuzN {
+  margin: 0;
+  padding: 0;
+}
+#app-mount .resultsGroup-r_nuzN::before {
+  content: none;
+}
+#app-mount .header-2N-gMV {
+  padding: 14px 12px;
+}
+#app-mount .option-96V44q {
+  margin: 0;
+  border-radius: 0;
+  padding: 4px 12px;
+}
+#app-mount .option-96V44q::after {
+  background: linear-gradient(90deg, transparent, var(--bg-primary));
+}
+#app-mount .option-96V44q.selected-rZcOL- {
+  background: #ff00e2;
+}
+
+.full-motion .search-2oPWTC.focused-31_ccS::before,
+.full-motion .container-3ayLPN {
+  -webkit-animation: fadeIn 0.2s ease forwards;
+          animation: fadeIn 0.2s ease forwards;
+}
+
+@media only screen and (max-width: 1200px) {
+  #app-mount .search-2oPWTC:not(.focused-31_ccS) {
+    height: 24px;
+  }
+  #app-mount .search-2oPWTC:not(.focused-31_ccS) .searchBar-3dMhjb {
+    background: transparent;
+    border: none;
+    width: 24px;
+    height: 24px;
+  }
+  #app-mount .search-2oPWTC:not(.focused-31_ccS) .iconContainer-O4O2CN {
+    width: 18px;
+    height: 18px;
+  }
+  #app-mount .search-2oPWTC:not(.focused-31_ccS) .icon-3cZ1F_ {
+    color: #ff00e2;
+    width: 20px;
+    height: 20px;
+  }
+  #app-mount .search-2oPWTC:not(.focused-31_ccS) .search-36MZv- .icon-38sknP svg {
+    width: 100%;
+    height: 100%;
+  }
+}
