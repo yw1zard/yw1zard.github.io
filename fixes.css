@@ -3733,3 +3733,94 @@ background-color: transparent !important
 #app-mount .panels-j1Uci_ > .container-3baos1 > .nameTag-3uD-yy {
   display: none;
 }
+.avatar-1BDn8e[src*="285569855506219018"]+h2>.headerText-3Uvj1Y>.username-1A8OIy:hover::after {
+    background-color: transparent !important;
+}
+[href*="youtu.be"],
+[href*="youtube.com"] {
+    color:#c4302b !important;
+    font-weight: 700;
+}
+
+[href*="twitch.tv"] {
+    color:#b700ff !important;
+    font-weight: 700;
+}
+[href*="spotify.com"] {
+    color:rgb(19, 185, 4) !important; 
+    font-weight: 700;
+}
+[href*="discord.com/channels/"] {
+    color:#7289da !important;
+}
+[href*="discord.com/channels/"]::before {
+    content:'Jump to Message : ';
+    font-size:16px;
+    font-weight:700;
+    color: #603cff;
+}
+[href*="reddit.com"] {
+    color:#e05a0c !important; 
+    font-weight: 700;
+}
+[href*="instagram.com/"]{
+    background: -webkit-linear-gradient(80deg, rgb(255, 238, 0), rgb(255, 157, 11), #b700ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 700;
+} 
+[href*="twitter.com/"]{
+    color:#00acee !important;
+    font-weight: 700;
+}
+[href*="betterdiscord.app/"],
+[href*="discord.gg/"] {
+    color:#7289da !important;
+    font-weight: 700;
+}
+[href*="github.com"]{
+    color:#00f0a8 !important;
+    font-weight: 700;
+}
+::placeholder, body, button, input, select, textarea{
+    font-family: var(--customFont) !important;
+}
+.wrapper-2a6GCs .assetWrapper-3GNt0z[style] {
+    height:auto !important;
+    width:auto !important;
+}
+
+.wrapper-2a6GCs .assetWrapper-3GNt0z[style]:active {
+    height:160px !important;
+    width:160px !important;
+}
+
+.wrapper-2a6GCs .assetWrapper-3GNt0z[style]:after {
+    content:'1 blocked sticker - Show Sticker';
+    color:var(--text-link);
+}
+
+.wrapper-2a6GCs .assetWrapper-3GNt0z[style]:active:after {
+    content:none;
+}
+
+.wrapper-2a6GCs .assetWrapper-3GNt0z[style]:hover:after {
+    text-decoration:underline;
+}
+
+.wrapper-2a6GCs .assetWrapper-3GNt0z[style] .lottieCanvas-1W7L-f,
+.wrapper-2a6GCs .assetWrapper-3GNt0z[style] .pngImage-33yLRP {
+    display:none;
+}
+
+.wrapper-2a6GCs .assetWrapper-3GNt0z[style]:active .lottieCanvas-1W7L-f,
+.wrapper-2a6GCs .assetWrapper-3GNt0z[style]:active .pngImage-33yLRP {
+    display:block;
+}
+.updateIconForeground-3tnNZn {
+  fill: transparent !important;
+}
+
+svg[name="Nova_Download"]{
+  background: url(https://nfld99.com/Bkg/80u9AQy.gif) 50% 50%/cover;
+}
