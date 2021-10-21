@@ -3547,7 +3547,6 @@ background-color: transparent !important
 #app-mount .search-2oPWTC.open-6_Y_aH .searchBar-3dMhjb {
   border: 2px solid #ff00e2;
   background-color: #161b44;
-  box-shadow: 0 0 calc(var(--glow-intensity) * 20px) calc(var(--glow-intensity) * 5px) rgb(var(--accent), 0.25);
 }
 #app-mount .search-2oPWTC.focused-31_ccS {
   position: fixed;
@@ -3568,7 +3567,6 @@ background-color: transparent !important
   box-sizing: border-box;
   border-radius: 12px;
   border: 3px solid #ff00e2;
-  box-shadow: 0 0 calc(var(--glow-intensity) * 20px) calc(var(--glow-intensity) * 5px) rgb(var(--accent), 0.25);
   -webkit-animation: fadeIn 0.2s ease forwards;
           animation: fadeIn 0.2s ease forwards;
 }
@@ -3647,7 +3645,6 @@ background-color: transparent !important
   border-radius: 12px;
   background: #161b44;
   border: 0px solid #ff00e2;
-  box-shadow: var(--shadow-lg);
   max-height: 60vh;
   overflow: hidden auto;
 }
