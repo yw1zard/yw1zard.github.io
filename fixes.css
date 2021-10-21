@@ -3538,3 +3538,33 @@ background-color: transparent !important
 .positionContainer-DEuh7X{
     height: 700px;
 }
+#app-mount .panels-j1Uci_ > .container-3baos1 {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  flex-direction: column-reverse;
+  padding: 0 0 24px;
+  width: 70px;
+  height: auto;
+}
+#app-mount .panels-j1Uci_ > .container-3baos1 > [style="flex: 0 1 auto;"] {
+  flex-direction: column;
+  width: 100%;
+}
+#app-mount .panels-j1Uci_ > .container-3baos1 > [style="flex: 0 1 auto;"] .button-14-BFJ {
+  width: 100%;
+  border-radius: 0;
+  padding: 12px 0;
+  height: auto;
+}
+#app-mount .panels-j1Uci_ > .container-3baos1 .avatarWrapper-2yR4wp {
+  margin-right: 0;
+  margin-top: 11px;
+}
+#app-mount .panels-j1Uci_ > .container-3baos1 .avatar-SmRMf2 {
+  width: 42px !important;
+  height: 42px !important;
+}
+#app-mount .panels-j1Uci_ > .container-3baos1 > .nameTag-3uD-yy {
+  display: none;
+}
