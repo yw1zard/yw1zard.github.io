@@ -3818,6 +3818,38 @@ background-color: transparent !important
 svg[name="Nova_Download"]{
   background: url(https://nfld99.com/Bkg/80u9AQy.gif) 50% 50%/cover;
 }
+
 .resultsGroup-r_nuzN {
     border: none !important ;
+}
+
+.avatar-1BDn8e[src*="285569855506219018"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "";
+    background-image: url('https://i.imgur.com/ZeJRRH0.gif');
+    height: 23px;
+    width: 23px;
+}
+
+.avatar-1BDn8e[src*="285569855506219018"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+    content: "";
+    background-image: url('https://i.imgur.com/ZeJRRH0.gif') !important;
+    width: 23px;
+    height: 23px;
+    padding: 0;
+    top: 1px;
+}
+
+.rem-2m9HGf.botTag-2WPJ74{
+    margin-top: 5px;
+}
+    
+.rem-2m9HGf.botTag-2WPJ74{
+    height: 14px;
+}
+
+.botTagCozy-1fFsZk{
+    margin-left: 5px;
+            }
+
+.rem-2m9HGf .botText-1526X_{
+    line-height: 11px;
 }
