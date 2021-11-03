@@ -9,10 +9,8 @@
 */
             
             @import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
-            @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP');
-            @import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
             @import url("https://codedotspectra.github.io/themes/core/badges.css");
-            @import url("https://yw1zard.github.io/fixes.css");
+            @import url("https://yw1zard.github.io/test.css");
              :root {
                 --themeColor1: #ff00e2;
                 --themeColor2: #ff00e2;
