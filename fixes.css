@@ -3877,3 +3877,149 @@ background-color: transparent !important
 .input-1GLP_D {
     display: block !important
 }
+.container-2wlB3z {
+    background-color: transparent;
+}
+.content-1x5b-n {
+    margin-left: 5px;
+}
+.colorInteractiveNormal-PB7JN3 {
+    color: #fff;
+}
+.premiumUpsell-2vHaVa {
+    display: none;
+}
+.wrapper-39oAo3 {
+    display: none;
+}
+.clamped-IwJfxR {
+    -webkit-line-clamp: 190;
+    max-height: 112px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+.clamped-IwJfxR::-webkit-scrollbar {
+    display: none;
+}
+#bd-editor-controls {
+    background-color: #000;
+}
+.monaco-editor, .monaco-editor-background, .monaco-editor .inputarea.ime-input {
+    background-color: #000 !important;
+}
+.monaco-editor .margin {
+    background-color: #000 !important;
+}
+.monaco-editor .minimap-slider, .monaco-editor .minimap-slider .minimap-slider-horizontal {
+    background-color: #000 !important;
+}
+.minimap-decorations-layer {
+    background-color: #000 !important;
+}
+.vs-dark .monaco-scrollable-element>.scrollbar>.slider {
+    background-color: #000 !important;
+}
+.textBadge-1iylP6 {
+    display: none;
+}
+.banner-2QYc2d:hover .bannerOverlay-1uIerX, .banner-2QYc2d:hover .pencilIcon-XSi-VE {
+    display: none;
+}
+.floating-window-titlebar {
+    background-color: #000 !important;
+}
+.floating-window #bd-editor-controls {
+    background-color: #000 !important;
+}
+.monaco-scrollable-element>.invisible {
+    display: none !important;
+}
+.decorationsOverviewRuler {
+    display: none !important;
+}
+.monaco-editor .minimap {
+    display: none !important;
+}
+.avatar-1BDn8e[src*="285569855506219018"]+h2>.headerText-3Uvj1Y>.username-1A8OIy:hover::after {
+    background-color: transparent !important;
+}
+.theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6 {
+    border: 3px solid #ff00e2;
+}
+.UserDetails-dates-container svg {
+    fill: #ff00e2 !important;
+}
+.button-14-BFJ {
+    width: 38px;
+    height: 38px;
+}
+.miniAvatar-2gznTe {
+    display: none;
+}
+.headerText-1vVs-U {
+    margin-left: -8px;
+}
+.activityName-1IaRLn, .nameNormal-2lqVQK, .textRow-19NEd_.ellipsis-1XUmPN {
+    line-height: 23px;
+}
+.UserDetails-connections-connectionsBody .UserDetails-connections-connections {
+    padding-left: 5px;
+}
+.UserDetails-activity-container {
+    padding-bottom: 11px;
+}
+.ShowAllActivities-wrapper-wrapper .ShowAllActivities-wrapper-controls .ShowAllActivities-wrapper-carosell .ShowAllActivities-wrapper-dot.ShowAllActivities-wrapper-selected {
+    background: #ff00e2 !important;
+}
+.directionRight-O8AY4M {
+    color: #ff00e2;
+}
+.directionLeft-O8iqia {
+    color: #ff00e2;
+}
+.selected-aXhQR6 .layout-2DM8Md::before {
+    background: none;
+}
+.selected-aXhQR6 .layout-2DM8Md::after {
+    background: none;
+}
+.avatar-37jOim {
+    background-color: transparent;
+}
+.wrapper-3NnKdC {
+    transition: .1s linear;
+    width: 10px;
+    display: flex
+}
+.wrapper-3NnKdC:hover {
+    width: 72px
+}
+.clickable-25tGDB .header-2V-4Sw:hover, .selected-31Nl7x .header-2V-4Sw {
+    background-color: transparent
+}
+.macButtons-2MuSAC {
+    padding-top: 17px;
+    padding-right: 6px;
+    padding-left: 6px;
+    margin-left: 2076px
+}
+.title-29uC1r, .toolbar-1t6TWx {
+    margin-right: 63px
+}
+.header-2V-4Sw {
+    width: 240px;
+    padding: 0 4px
+}
+.macButton-c_Adir {
+    width: 15px;
+    height: 15px
+}
+.macButtons-2MuSAC {
+    flex-direction: row-reverse;
+}
+.macButtons-2MuSAC {
+    flex-direction: row-reverse;
+}
+.guilds-1SWlCJ [class*=pill] span {
+    height: 125px !important;
+}
