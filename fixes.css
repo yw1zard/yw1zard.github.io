@@ -3022,3 +3022,12 @@ html:root {
 [role="img"][aria-label*="Invisible"]:before {
     box-shadow: 0 0 0 3px transparent
 }
+.theme-dark .separator-2-RRj_{
+    background-color:#161b44;
+}
+.rsvpCount-1Qtgtr{
+    background-color:#161b44;
+}
+.theme-dark .newPopoutActivityStyles .platformIcon-32kXeN, .theme-light .newPopoutActivityStyles .platformIcon-32kXeN{
+    display:none;
+}
