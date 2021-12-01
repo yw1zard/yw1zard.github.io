@@ -3012,3 +3012,9 @@ html:root {
 .theme-dark .newPopoutActivityStyles .platformIcon-32kXeN, .theme-light .newPopoutActivityStyles .platformIcon-32kXeN{
     display:none;
 }
+.avatar-AvHqJA{
+    background-color: transparent;
+}
+.customStatus-oN4ZZY:not(:empty){
+    border: none;
+}
