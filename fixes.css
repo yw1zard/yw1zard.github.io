@@ -2281,7 +2281,7 @@ html:root {
     display: none
 }
 .markup-2BOw-j a {
-    color: #ff00e2
+    color: #00ff43
 }
 .activity-2INFPu {
     background-color: #0f122e
@@ -3013,4 +3013,19 @@ html:root {
 }
 .customStatus-oN4ZZY:not(:empty){
     border: none;
+}
+.avatarOffline-3GF27z, role="img"][aria-label]:before{
+    display: none;
+}
+.tutorialContainer-11ICd5 .wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9, .tutorialContainer-11ICd5 .wrapper-1BJsBx:hover .childWrapper-anI2G9{
+    background-color: transparent!important;
+}
+.customStatus-oN4ZZY{
+    border:none !important;
+}
+.popoutBanner-19WKGg .pencilContainer-2TbNwJ, .popoutBannerPremium-1n96gg .pencilContainer-2TbNwJ{
+    display: none;
+}
+.userPopout-xaxa6l {
+    border-radius: 0px;
 }
