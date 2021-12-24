@@ -2655,7 +2655,7 @@ html:root {
     }
 }
 [href*="youtu.be"], [href*="youtube.com"] {
-    color: #ff000d !important;
+    color: #EB3B46 !important;
     font-weight: 700
 }
 [href*="twitch.tv"] {
