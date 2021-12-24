@@ -2209,7 +2209,7 @@ html:root {
     color: #fff !important
 }
 .theme-dark .newPopoutActivityStyles button, .theme-dark .newProfileActivityStyles button, .theme-light .newPopoutActivityStyles button, .theme-light .newProfileActivityStyles button {
-    border-color: #ff00e2
+    border: 2px solid #ff00e2
 }
 .headerTop-3vNv-a {
     background-color: #161b44
