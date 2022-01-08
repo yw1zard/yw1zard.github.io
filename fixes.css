@@ -3043,3 +3043,13 @@ html:root {
 .theme-dark .option-96V44q[aria-selected=true]{
     background-color:#121221;
 }
+.buttonWrapper-1ZmCpA{
+    display: none;
+}
+button[aria-label="Send a gift"] {
+    display: none;
+}
+.theme-dark .option-96V44q .answer-1n6g43, .theme-dark .option-96V44q .nonText-3CRkO0, .theme-dark .option-96V44q strong{
+    line-height: 36px;
+    color: #fff;
+}
