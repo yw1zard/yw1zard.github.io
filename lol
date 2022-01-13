@@ -1,4 +1,3 @@
-/*Removes Chatbox from channel that don't allow you to communicate*/
 .channelTextArea-rNsIhG.channelTextArea-2VhZ6z.channelTextAreaDisabled-8rmlrp {display: none;}
 
 /*Removes Follow banner on bottom of channels*/
