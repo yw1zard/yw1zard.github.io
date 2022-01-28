@@ -1033,3 +1033,16 @@ button[aria-label="Send a gift"]{display:none}
 .lookFilled-yCfaCM.colorGreen-3y-Z79{background-color:#161b44!important;}
 .lookFilled-yCfaCM.colorGreen-3y-Z79{background-image: none;}
 .lookFilled-yCfaCM.colorGreen-3y-Z79{border: 3px solid #ff00e2;}
+#permissions-modal-wrapper #permissions-modal{border:3px solid #ff00e2 !important;}
+#permissions-modal-wrapper .header{background-color: #161b44 !important;}
+#permissions-modal-wrapper .modal-body{background-color: #161b44 !important;}
+#permissions-modal-wrapper .role-side{background-color: #161b44 !important;}
+#permissions-modal-wrapper .perm-side{background-color: #161b44 !important;}
+#permissions-modal-wrapper .perm-item{box-shadow: none!important;}
+.nickname-t08Mck{padding-bottom: 0px;}
+.UserDetails-dates-container{margin-top: 5px;}
+.headerTag-3GXZkV{font-size: 0px;}
+.headerTag-3GXZkV:hover{font-size: 14px;}
+.headerTagNoNickname-3tGHj6{font-size: 20px !important ;}
+.miniAvatar-dnzs_w{display: none;}
+.discriminator-1bqsd3{color: #ff00e2;}
