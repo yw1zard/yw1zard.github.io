@@ -1048,3 +1048,7 @@ button[aria-label="Send a gift"]{display:none}
 .discriminator-1bqsd3{color: #ff00e2;}
 .headerTagNoNickname-3tGHj6{line-height: 33px;}
 .bd-settings-title.bd-settings-group-title{color: #fff;}
+.theme-dark .categoryFadeBlurple-1l49_Q, .theme-light .categoryFadeBlurple-1l49_Q{background-color: #ff00e259 ;}
+.categoryFade-3RRG67, .categoryFadeBlurple-1l49_Q{width: 234px;}
+.theme-dark .focused-16Owih:after, .theme-dark .result-pzZrwj:hover:after{box-shadow: none !important;}
+.theme-dark .categoryFadeBlurple-1l49_Q:hover, .theme-light .categoryFadeBlurple-1l49_Q:hover{background-color: #ff00e2CC;}
