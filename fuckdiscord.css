@@ -1052,3 +1052,15 @@ button[aria-label="Send a gift"]{display:none}
 .categoryFade-3RRG67, .categoryFadeBlurple-1l49_Q{width: 234px;}
 .theme-dark .focused-16Owih:after, .theme-dark .result-pzZrwj:hover:after{box-shadow: none !important;}
 .theme-dark .categoryFadeBlurple-1l49_Q:hover, .theme-light .categoryFadeBlurple-1l49_Q:hover{background-color: #ff00e2CC;}
+.searchBar-3dMhjb .icon-38sknP{height: 58px;}
+.searchBar-3dMhjb .icon-38sknP{display: none !important ; }
+.nameAndDecorators-2A8Bbk{color: #fff;}
+.goalTextContainer-28XMHR, .textArea-7J7xQx{display: none;}
+.interactive-1vLZ_I:focus-within, .interactive-1vLZ_I:hover{background-color: #ff00e2;}
+.interactive-1vLZ_I:hover .name-2m3Cms {color: #161b44;}
+.selected-3veCBZ{background-color: #161b44;}
+.selected-3veCBZ .name-2m3Cms{color: #ff00e2;}
+.interactive-1vLZ_I:hover .subtext-14b69p{color: #161b44;}
+.selected-3veCBZ .subtext-14b69p{color: #ff00e2;}
+.linkButtonIcon-7rsZcu{color: #ff00e2;}
+.interactive-1vLZ_I:hover .linkButtonIcon-7rsZcu{color: #161b44;}
