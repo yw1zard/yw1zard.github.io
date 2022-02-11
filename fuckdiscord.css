@@ -1054,4 +1054,5 @@ button[aria-label="Send a gift"]{display:none}
 .subText-3Sk0zy{font-weight: bolder;}
 .container-2giAcK{display: none;}
 .overflow-1wOqNV{line-height: 24px;}
-
+.reaction-2A2y9y:hover{background-color: #161b44;border-color: #ff00e2;}
+.reaction-2A2y9y{background-color: rgba(0, 0, 0, 0.25);}
