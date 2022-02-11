@@ -1022,7 +1022,7 @@ button[aria-label="Send a gift"]{display:none}
 .akaBadge-3i7V3p, .enabled-1t_Gxm:hover, .memberListItem-31QoHj:not(.popoutDisabled-2RK7MF):hover, .side-2ur1Qk .themed-2-lozF.item-3XjbnG:hover, .topPill-3DJJNV .themed-2-lozF.item-3XjbnG:hover, .wrapper-2RrXDg:hover{box-shadow: none !important;}
 #app-mount .avatar-2e8lTP + h2{overflow: hidden !important;}
 .theme-dark .tooltip-14MtrL, .theme-light .tooltip-14MtrL{box-shadow: none !important;}
-.reaction-2A2y9y:hover{border-color: #ff00e2; }
+.reaction-2A2y9y:hover{border: 2px solid #ff00e2; }
 .wrapper-1S43wv.muted-19J0ih, .wrapper-1S43wv.muted-19J0ih .name-3BUDLf{color: #ff00e2;}
 .actions-1mkm4H, .mentionButton-3C5YMI{display: flex !important;}
 .container-2wlB3z {background: transparent !important;}
@@ -1067,4 +1067,4 @@ button[aria-label="Send a gift"]{display:none}
 .subText-3Sk0zy{font-weight: bolder;}
 .container-2giAcK{display: none;}
 .overflow-1wOqNV{line-height: 24px;}
-.reaction-2A2y9y{border-radius: 0.5rem;}
+.reaction-2A2y9y{border-radius: 5px;}
