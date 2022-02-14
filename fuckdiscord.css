@@ -1024,3 +1024,10 @@ button[aria-label="Send a gift"]{display:none}
 .reaction-2A2y9y{background-color: rgba(0, 0, 0, 0.25);}
 .reaction-2A2y9y.reactionMe-3I9gFK{background-color: #161b44;}
 .reaction-2A2y9y.reactionMe-3I9gFK{border-color: #ff00e2;}
+.role-2TIOKu{height: 24px;}
+.theme-dark .option-ayUoaq:after{background:none !important;}
+.theme-dark .searchOption-3u1gRt .answer-14OVbQ{color: #fff;}
+.theme-dark .option-ayUoaq[aria-selected=true] {background-color: #ff00e2;} 
+.theme-dark .container-2McqkF{border: 2px solid #ff00e2;}
+.bd-addon-list .bd-card-footer button:hover, .bd-button:hover, .bd-modal-wrapper .footer button:hover, .bd-pfbtn:hover, .lookFilled-yCfaCM.colorBrand-I6CyqQ:hover, .lookFilled-yCfaCM.colorGrey-2iAG-B:hover, .lookGhost-2Fn_0-.colorBrand-I6CyqQ:hover, .lookGhost-2Fn_0-.colorGrey-2iAG-B:hover, .lookOutlined-3yKVGo.colorBrand-I6CyqQ:hover{background-color: #161b44 !important;}
+
