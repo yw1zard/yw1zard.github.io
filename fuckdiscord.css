@@ -905,6 +905,7 @@ button[aria-label="Send a gift"]{display:none}
 .icon-3B9vQh,.text-2GsXbW{color:#000}
 .colorDefault-CDqZdO.focused-3qFvc8{background-color:#ff00e2;color:#161b44}
 .colorDefault-CDqZdO{color: #fff;}
+.colorDefault-CDqZdO:active:not(.hideInteraction-2jPGL_){color: #161b44;}
 .section-3G9aLW:only-child{background-color:#0f122e}
 .children-3MeUvj{display:none}
 .side-2ur1Qk .themed-2-lozF.item-3XjbnG:hover:not(.disabled-1nofHP),.topPill-3DJJNV .themed-2-lozF.item-3XjbnG:hover:not(.disabled-1nofHP){background-color:#ff00e2!important;color:#000;padding-bottom:6px}
