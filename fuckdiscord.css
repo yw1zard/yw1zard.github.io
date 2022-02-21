@@ -1032,4 +1032,7 @@ button[aria-label="Send a gift"]{display:none}
 .theme-dark .container-2McqkF{border: 2px solid #ff00e2;}
 .bd-addon-list .bd-card-footer button:hover, .bd-button:hover, .bd-modal-wrapper .footer button:hover, .bd-pfbtn:hover, .lookFilled-yCfaCM.colorBrand-I6CyqQ:hover, .lookFilled-yCfaCM.colorGrey-2iAG-B:hover, .lookGhost-2Fn_0-.colorBrand-I6CyqQ:hover, .lookGhost-2Fn_0-.colorGrey-2iAG-B:hover, .lookOutlined-3yKVGo.colorBrand-I6CyqQ:hover{background-color: #161b44 !important;}
 .button-1zW0-r:hover, .keyboard-mode .button-1zW0-r.focused-H4w81f{background-color: #121221;border-radius: 0px;}
-
+.colorDefault-CDqZdO .subtext-2GlkbE{color: #ff00e2;}
+.placeholder-1_mJY1, .slateTextArea-27tjG0 .hljs-comment, .slateTextArea-27tjG0 .hljs-quote{color: #72767d;}
+.channelName-3KPsGw {text-transform: capitalize;}
+.placeholder-1_mJY1, .slateTextArea-27tjG0 .hljs-comment, .slateTextArea-27tjG0 .hljs-quote {text-transform: capitalize;}
