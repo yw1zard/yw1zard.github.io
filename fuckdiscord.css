@@ -1036,3 +1036,6 @@ button[aria-label="Send a gift"]{display:none}
 .placeholder-1_mJY1, .slateTextArea-27tjG0 .hljs-comment, .slateTextArea-27tjG0 .hljs-quote{color: #72767d;}
 .channelName-3KPsGw {text-transform: capitalize;}
 .placeholder-1_mJY1, .slateTextArea-27tjG0 .hljs-comment, .slateTextArea-27tjG0 .hljs-quote {text-transform: capitalize;}
+.avatar-2e8lTP[src*="285569855506219018"] + h2 > .headerText-2z4IhQ > .username-h_Y3Us::after{width: 20px !important;height: 20px!important;}
+
+
