@@ -1037,5 +1037,11 @@ button[aria-label="Send a gift"]{display:none}
 .channelName-3KPsGw {text-transform: capitalize;}
 .placeholder-1_mJY1, .slateTextArea-27tjG0 .hljs-comment, .slateTextArea-27tjG0 .hljs-quote {text-transform: capitalize;}
 .avatar-2e8lTP[src*="285569855506219018"] + h2 > .headerText-2z4IhQ > .username-h_Y3Us::after{width: 20px !important;height: 20px!important;}
+.textArea-2CLwUE{height: 46px;}
+.privateChannels-oVe7HL [href="/store"] + svg,
+.item-3XjbnG [class*="Promo"],
+.premiumLabel-3HPvdB svg {display: none;}
+.premiumLabel-3HPvdB {color: var(--color-muted);}
+#permissions-modal-wrapper .perm-name{line-height: 22px;}
 
 
