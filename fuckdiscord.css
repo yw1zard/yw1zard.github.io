@@ -1043,5 +1043,7 @@ button[aria-label="Send a gift"]{display:none}
 .premiumLabel-3HPvdB svg {display: none;}
 .premiumLabel-3HPvdB {color: var(--color-muted);}
 #permissions-modal-wrapper .perm-name{line-height: 22px;}
+.markup-eYLPri blockquote, .markup-eYLPri pre{max-width: 100%;}
+.theme-dark .container-3wLKDe{background-color: transparent;}
 
 
