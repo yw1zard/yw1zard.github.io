@@ -905,7 +905,7 @@ button[aria-label="Send a gift"]{display:none}
 .colorDefault-CDqZdO:active:not(.hideInteraction-2jPGL_){color: #161b44;}
 .section-3G9aLW:only-child{background-color:#0f122e}
 .children-3MeUvj{display:none}
-.side-2ur1Qk .themed-2-lozF.item-3XjbnG:hover:not(.disabled-1nofHP),.topPill-3DJJNV .themed-2-lozF.item-3XjbnG:hover:not(.disabled-1nofHP){background-color:#ff00e2!important;color:#000;padding-bottom:6px}
+.side-2ur1Qk .themed-2-lozF.item-3XjbnG:hover:not(.disabled-1nofHP),.topPill-3DJJNV .themed-2-lozF.item-3XjbnG:hover:not(.disabled-1nofHP){background-color:#ff00e2!important;color:#000;}
 .modalContent-33IoUE{background-color:#161b44}
 .theme-dark .footer-31IekZ{background-color:#161B44}
 .header-o8wV_s{background-color:#161B44;margin:0!important}
@@ -1049,3 +1049,5 @@ button[aria-label="Send a gift"]{display:none}
 .guildSeparator-a4uisj{display: none;}
 .wrapper-NhbLHG:hover .content-1gYQeQ{background-color: #ff00e2 !important;}
 .modeMuted-2T4MDZ:hover .name-28HaxV, .wrapper-NhbLHG:hover .icon-2W8DHg, .wrapper-NhbLHG:hover .name-28HaxV{color: #161b44 !important;}
+.topPill-3DJJNV .item-3XjbnG{line-height: 25px;}
+
