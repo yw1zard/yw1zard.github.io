@@ -1059,5 +1059,10 @@ button[aria-label="Send a gift"]{display:none}
 .localizeBadge-24ZXps{background-color: transparent !important;}
 .badgeIconPrivateMessages-2hN0QU{display: none;}
 .clickable-2V8YKY[aria-disabled=false]>.base-2v-uc0:hover, .clickable-2V8YKY[aria-selected=true]>.base-2v-uc0{background-color: #ff00e2;}
-
+.connection-YOVI9j{border: 3px solid #ff00e2;}
+.accountList-Wii_T5{border: 3px solid #ff00e2;}
+.reaction-3vwAF2.reactionMe-1PwQAc{background-color: #161b44;}
+.reaction-3vwAF2.reactionMe-1PwQAc{border-color: #ff00e2;}
+.reaction-3vwAF2:hover{border-color: #ff00e2;}
+.reaction-3vwAF2{background: rgb(0, 0, 0, 0.4);}
 
