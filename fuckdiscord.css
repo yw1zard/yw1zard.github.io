@@ -1073,4 +1073,7 @@ button[aria-label="Send a gift"]{display:none}
 .sidebar-3K3Z4C{background-color: #161b44;}
 .theme-dark, .preview-yX6Nx7, .helpIcon-2EyVTp, .modal-2RrUKJ>*{background: transparent !important;}
 .listItems-6eZzQ1{background: transparent !important;}
+#bd-settings-sidebar .ui-tab-bar-item, .side-2ur1Qk .item-3XjbnG{transition: 0s;}
+.side-2ur1Qk .item-3XjbnG{padding-left: 20px;}
+.text-xs-medium-2LRpEj, .text-xs-normal-3SiVjE{display: none;}
 
