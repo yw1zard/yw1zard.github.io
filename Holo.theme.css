@@ -20,4 +20,14 @@
                 --backgroundImage: url('https://imgur.com/6xbMQXD.jpg');
                 --backgroundBlur: 0px;
                 --backgroundOpacity: 1;
-            }
+                --background-floating: #161b44;
+                --background-primary: #161b44;
+                --background-secondary: #161b44;
+                --background-accent: #161b44;
+                --background-secondary-alt: #161b44;
+                --background-tertiary: #161b44;
+                --interactive-normal: #ffffff;
+                --text-normal: #ffffff;
+                --header-secondary: #ffffff;
+                --text-muted: #ffffff;
+}
