@@ -1080,4 +1080,7 @@ button[aria-label="Send a gift"]{display:none}
 .theme-dark .addGamePopout-2SKNIV{background-color: #161b44;}
 .ephemeral-2nDdnn{background-color:transparent!important;background-image:linear-gradient(to right,#ff000050,#FF8C0030,#FFD70030,#00FF0030,#00BFFF30,#BA55D330,#ff000050)!important;background-size:400% 100%!important;animation:rainbow_animation 6s ease-in-out infinite!important}
 .ephemeral-2nDdnn:before{background-color: #ff00e2;}
+.communityInfoContainer-1dMVpU {display: none;}
+.container-1NXEtd .content-2a4AW9 > div[style="height: 16px;"]:nth-child(2){display: none;}
+
 
