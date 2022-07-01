@@ -1068,9 +1068,13 @@ button[aria-label="Send a gift"]{display:none}
 .username-i5-wv-{text-overflow: clip ;}
 .timestamp-6-ptG3{background-color: #0f122e;}
 .header-JUTO-g{border: none;}
-.sidebar-3K3Z4C{border-color:  #ff00e2;}
-.contentWidth-3aWel5{background-color: #161b44;}
-.sidebar-3K3Z4C{background-color: #161b44;}
+.premiumTrialAcknowledgedBadge-2QxbU_{display: none;}
+.sidebar-3K3Z4C{background-color: rgba(0, 0, 0, .25);}
+.contentWidth-3aWel5{background-color: rgba(0, 0, 0, .25);}
+.header-JUTO-g{background-color: rgba(0, 0, 0, .0);}
+.stickyHeader-1Sunlx{position: none;}
+.sidebar-3K3Z4C{border: none;}
+#bd-settings-sidebar .ui-tab-bar-header, .side-2ur1Qk .header-2Kx1US{border-bottom: 2px solid #ff00e2 !important;}
 .theme-dark, .preview-yX6Nx7, .helpIcon-2EyVTp, .modal-2RrUKJ>*{background: transparent !important;}
 .listItems-6eZzQ1{background: transparent !important;}
 #bd-settings-sidebar .ui-tab-bar-item, .side-2ur1Qk .item-3XjbnG{transition: 0s;}
