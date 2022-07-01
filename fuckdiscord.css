@@ -733,7 +733,7 @@ html:root{--font-display:var(--font-primary)}
 .theme-dark .contentWarningPopout-WKdbDG{background-color:#161b44;border:2px solid #ff00e2}
 .cozy-3raOZG .messageContent-2qWWxC{font-size:17.5px}
 .item-3XjbnG{font-size:18px}
-.name-28HaxV{font-size:17px}
+.name-28HaxV{font-size:16px}
 .messagesPopoutWrap-1MQ1bW{width:640px}
 .icon-2Ug6UV{color:#fff}
 .guildNameText-jBFbNC{font-size:19px}
@@ -890,7 +890,7 @@ button[aria-label="Send a gift"]{display:none}
 .activity-1gTu-L{padding-top:4px;padding-bottom:14px}
 .theme-dark .newPopoutActivityStyles .headerText-3g1XK9,.theme-dark .newProfileActivityStyles .headerText-3g1XK9,.theme-light .newPopoutActivityStyles .headerText-3g1XK9,.theme-light .newProfileActivityStyles .headerText-3g1XK9{display:none}
 .scrollableContainer-15eg7h{padding-top:15px}
-.container-q97qHp{color:#ff00e2;font-weight:500}
+.container-q97qHp{color:#ff00e2;font-weight:900}
 .header-145e10 .tab-TRrPC8{border:none!important}
 .theme-dark .lookFilled-yCfaCM.colorGrey-2iAG-B:disabled{background-color:transparent}
 .newMessagesBar-1hF-9G{background-color:#ff00e2!important}
@@ -1074,7 +1074,12 @@ button[aria-label="Send a gift"]{display:none}
 .header-JUTO-g{background-color: rgba(0, 0, 0, .0);}
 .stickyHeader-1Sunlx{position: none;}
 .sidebar-3K3Z4C{border: none;}
-#bd-settings-sidebar .ui-tab-bar-header, .side-2ur1Qk .header-2Kx1US{border-bottom: 2px solid #ff00e2 !important;}
+#bd-settings-sidebar .ui-tab-bar-header::before, .side-2ur1Qk .header-2Kx1US::before{box-shadow: none;}
+#bd-settings-sidebar .ui-tab-bar-header::before, .side-2ur1Qk .header-2Kx1US::after{box-shadow: none;}
+#bd-settings-sidebar .ui-tab-bar-header, .side-2ur1Qk .header-2Kx1US{border: none !important;border-image: none;}
+.header-2Kx1US{font-size: 16px !important;font-weight: 900; text-decoration: underline #ff00e2 5px;}
+.item-3XjbnG{font-size: 16px;font-weight: 200;}
+.container-q97qHp{font-size: 13px;}
 .theme-dark, .preview-yX6Nx7, .helpIcon-2EyVTp, .modal-2RrUKJ>*{background: transparent !important;}
 .listItems-6eZzQ1{background: transparent !important;}
 #bd-settings-sidebar .ui-tab-bar-item, .side-2ur1Qk .item-3XjbnG{transition: 0s;}
