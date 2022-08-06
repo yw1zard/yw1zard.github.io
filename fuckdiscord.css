@@ -1104,4 +1104,7 @@ button[aria-label="Send a gift"]{display:none}
 .headerContainer-1wJjOa{display: none;}
 .theme-dark .activityUserPopout-2MzGCj .platformIcon-k3yytQ, .theme-dark .activityUserPopoutV2-3eKqzY .platformIcon-k3yytQ, .theme-light .activityUserPopout-2MzGCj .platformIcon-k3yytQ, .theme-light .activityUserPopoutV2-3eKqzY .platformIcon-k3yytQ{display: none;}
 .activity-1gTu-L{padding-top: 14px;}
+#account.menu-1QACrS {width: 220px;}
+#account.menu-1QACrS .submenu-1apzyU[aria-activedescendant^="account-status-picker"] {max-width: 220px;}
+#account.menu-1QACrS .profileGroup-1yKk23,#account.menu-1QACrS .profileGroup-1yKk23 + .separator-1So4YB {display:none;}
 
