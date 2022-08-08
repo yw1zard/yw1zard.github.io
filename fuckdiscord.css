@@ -477,7 +477,8 @@ foreignObject[mask*="round-80"]{mask:none!important}
 .attachButtonPlus-3IYelE{fill:#fff}
 .membersWrap-3NUR2t,.members-3WRCEx{width:60px;position:relative;min-width:unset;transition:all .1s ease}
 .membersWrap-3NUR2t .scrollerWrap-2lJEkd{width:60px}
-.membersWrap-3NUR2t:hover,.members-3WRCEx:hover{width:240px}
+.membersWrap-3NUR2t:hover,.members-3WRCEx:hover{width:260px}
+.member-2gU6Ar{max-width: 260px;}
 .membersGroup-2eiWxl{transition:all .1s ease;transform:translateX(100%)}
 .membersWrap-3NUR2t:hover .membersGroup-2eiWxl{transform:translateX(0)}
 .attachButtonPlus-3IYelE{fill:#fff!important}
