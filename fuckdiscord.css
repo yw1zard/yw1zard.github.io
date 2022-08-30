@@ -1144,4 +1144,8 @@ button[aria-label="Send a gift"]{display:none}
 .avatar-2OC07D{height: 105px !important; width: 105px !important}
 .avatarPositionPremiumBanner-2nq2Fy{top: 56px;}
 .avatarHint-2g3Mcd{width: 105px; height: 105px;}
+.userPopoutInnerNonPremium-3zrFkp{border-radius: 10px;}
+.userPopoutInnerWithBanner-wsoegj{border-radius: 10px;}
+.popoutBanner-16rVDY{border-top-left-radius: 10px; border-top-right-radius: 10px;}
+.popoutBannerPremium-2RvDNZ{border-top-left-radius: 10px; border-top-right-radius: 10px;}
 
