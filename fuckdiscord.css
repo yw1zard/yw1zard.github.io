@@ -665,7 +665,6 @@ html:root{--font-display:var(--font-primary)}
 .customStatusActivity-nmH3DF{background-color:#161b44}
 .previewMessage-2uxBrA{background-color:#161b44}
 .multiInput-2AiDV2{background-color:#161b44!important}
-.profileBanner-1owKI5{background-image:url(https://cdn.discordapp.com/attachments/852652502067183616/852652519778680913/monkey_d_luffy_and_roronoa_zoro_one_piece_drawn_by_pemu_op__sample-4162602f011580a52c2a04e9864ccc75_.jpeg)}
 .nameTagWithCustomStatus-2kkfrQ{margin-bottom:0;margin-left:0;margin-top:0;padding-top:15px;padding-left:10px;padding-bottom:10px}
 .nameTag-ECvD8P{margin-bottom:0;margin-left:0;margin-top:0}
 .wrapper-1S43wv{padding-right:1px}
@@ -1152,4 +1151,4 @@ button[aria-label="Send a gift"]{display:none}
 .userPopoutInnerPremiumWithoutBanner-na5t_W{border:3px solid #ff00e2; border-radius: 10px;}
 .buttonColor-XIRMbp{background-color: #161b44; border: 2px solid #ff00e2;}
 .activityName-3YXl6e, .nameNormal-2lqVQK, .textRow-1sENuL.ellipsis-23LXbI{font-size: 15px;}
-
+.profileBanner-1owKI5{width:600px;height:255px;background-image:url(https://imgur.com/bZHfV5b.gif)!important;background-repeat:no-repeat;background-position:50%;background-size:cover;}
