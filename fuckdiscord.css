@@ -1176,3 +1176,7 @@ button[aria-label="Send a gift"]{display:none}
 .connectContainer-1hylYM, .connection-YOVI9j, .connectionHeader-Ixbb1s, .mainCard-3KBsBI{background-color: #161b44 !important;}
 .discordMemberCreatedAt-3htTfn{display: none;}
 .messageContainer-3VTXBC{border: none;}
+.bannerSVGWrapper-qc0szY{width:320px;height:113px;background-image:url("https://imgur.com/uBOWbx6.gif%22")!important;background-repeat:no-repeat;background-position:50%;background-size:cover; min-width: 320px !important;min-height: 113px !important;border-top-left-radius: 10px;border-top-right-radius: 10px;}
+.popoutBanner-16rVDY{background-color: transparent !important;}
+.popoutBannerPremium-2RvDNZ{height: 130px;min-height: 130px; }
+.ShowAllActivities-wrapper-wrapper .ShowAllActivities-wrapper-controls .ShowAllActivities-wrapper-caret{background-color:transparent}
