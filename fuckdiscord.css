@@ -1185,3 +1185,7 @@ button[aria-label="Send a gift"]{display:none}
 .userPopoutInner-1v4xcM:before{background-color: transparent !important;}
 .userPopoutThemed-wGuRN3{background: none !important;}
 .lastSection-3_1yKt{display: none;}
+.mask-1FEkla>circle{display: none;}
+foreignObject[mask*="round-80"]{width: 96px; height: 96px;}
+.avatarHoverTarget-l77PhT .wrapper-1VLyxH{width: 92px !important; height: 92px !important;}
+foreignObject[mask*="mobile-80"]{width: 96px; height: 96px;}
