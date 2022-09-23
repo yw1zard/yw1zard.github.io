@@ -908,7 +908,6 @@ button[aria-label="Send a gift"]{display:none}
 .content-Lj791F{background-color:#161b44}
 .theme-dark .root-g14mjS{background-color:#161b44;border:3px solid #ff00e2}
 .textLeft-1Noen0,.textRight-2IW704{color:#ff00e2}
-.role-2TIOKu{border:4px solid}
 .messageGroupWrapper-1jf_7C .messageGroupCozy-3v_RqN{background-color:#0f122e}
 #app-mount .sidebar-1tnWFu{width:241px}
 .avatar-2e8lTP[src*="28556985550629018"] + h2 > .headerText-2z4IhQ > .username-h_Y3Us::after{width:20px;height:20px}
@@ -1109,13 +1108,8 @@ button[aria-label="Send a gift"]{display:none}
 .defaultColor-24IHKz{line-height: 25px;}
 .button-1zW0-r{background-color: #161b44;}
 .ShowAllActivities-wrapper-wrapper .ShowAllActivities-wrapper-controls{background: #161b44 !important;}
-.userPopoutInnerNonPremium-3zrFkp{background: #161b44 !important;}
-.userPopoutInnerWithBanner-wsoegj{background: #161b44 !important;}
-.overlayBackground-arbZMT{background: #161b44 !important;}
 .theme-dark.profileColors-3Y0XaR{width: 326px !important ;}
 .divider-1tWBgZ{display: none;}
-.userPopoutInnerNonPremium-3zrFkp{border:3px solid #ff00e2}
-.userPopoutInnerWithBanner-wsoegj{border:3px solid #ff00e2}
 .activity-E0U09Y{background-color:#0f122e}
 .section-3FmfOT{padding:28px 0px 0px 0px}
 .activity-E0U09Y{padding: 15px}
@@ -1140,9 +1134,6 @@ button[aria-label="Send a gift"]{display:none}
 .avatarPositionPremiumBanner-2nq2Fy{top: 56px;}
 .avatarHint-2g3Mcd{width: 105px; height: 105px;}
 .userPopoutInnerNonPremium-3zrFkp{border-radius: 10px;}
-.userPopoutInnerWithBanner-wsoegj{border-radius: 10px;}
-.userPopoutInnerPremiumWithoutBanner-na5t_W{background: #161b44 !important;}
-.userPopoutInnerPremiumWithoutBanner-na5t_W{border:3px solid #ff00e2; border-radius: 10px;}
 .buttonColor-XIRMbp{background-color: #161b44; border: 2px solid #ff00e2;}
 .activityName-3YXl6e, .nameNormal-2lqVQK, .textRow-1sENuL.ellipsis-23LXbI{font-size: 15px;}
 .userPopoutInner-PA9zkU:before{background-color: transparent;}
@@ -1182,3 +1173,15 @@ button[aria-label="Send a gift"]{display:none}
 .connectedAccountNameText-tCbPXH{color: #ff00e2 !important;}
 .discordMemberCreatedAt-31OkT7{display: none;}
 .form-2oOOG9{width: 440px;}
+.pencilIcon-1MUmnO{display: none;}
+.userPopoutInnerNonPremium-1EOFgI{background: #161b44 !important;border:3px solid #ff00e2;}
+.overlayBackground-2Zjm9f{background: #161b44 !important;}
+.overlayBackground-2Zjm9f{margin:4px 0px 16px;}
+.role-2TIOKu{border: none;}
+.userPopoutInnerWithBanner-24GX6I{background: #161b44;}
+.userPopoutInnerWithBanner-24GX6I{border:3px solid #ff00e2;border-radius: 10px;}
+.userPopoutInnerPremiumWithoutBanner-1FAP-h{background: var(--backgroundColor);}
+.userPopoutInnerPremiumWithoutBanner-1FAP-h{border:3px solid #ff00e2; border-radius: 10px;}
+.userPopoutInner-1v4xcM:before{background-color: transparent !important;}
+.userPopoutThemed-wGuRN3{background: none !important;}
+.lastSection-3_1yKt{display: none;}
