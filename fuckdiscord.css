@@ -1098,9 +1098,11 @@ button[aria-label="Send a gift"]{display:none}
 .headerContainer-1wJjOa{display: none;}
 .theme-dark .activityUserPopout-2MzGCj .platformIcon-k3yytQ, .theme-dark .activityUserPopoutV2-3eKqzY .platformIcon-k3yytQ, .theme-light .activityUserPopout-2MzGCj .platformIcon-k3yytQ, .theme-light .activityUserPopoutV2-3eKqzY .platformIcon-k3yytQ{display: none;}
 .activity-1gTu-L{padding-top: 14px;}
-#account.menu-1QACrS {width: 220px;}
-#account.menu-1QACrS .submenu-1apzyU[aria-activedescendant^="account-status-picker"] {max-width: 220px;}
-#account.menu-1QACrS .profileGroup-1yKk23,#account.menu-1QACrS .profileGroup-1yKk23 + .separator-1So4YB {display:none;}
+.didRender-2SiRlm>.userPopout-29jUdN {width: 220px;}
+.didRender-2SiRlm>.userPopout-29jUdN .userPopoutInner-1v4xcM>:not(.overlayBackground-2Zjm9f),
+.didRender-2SiRlm>.userPopout-29jUdN .overlayBackground-2Zjm9f>:not(#account.menu-1QACrS),
+.didRender-2SiRlm>.userPopout-29jUdN #account.menu-1QACrS #account-divider-1 {display: none;}
+.didRender-2SiRlm>.userPopout-29jUdN .overlayBackground-2Zjm9f {margin: 0;}
 .item-3XjbnG{font-size: 18px;}.side-2ur1Qk .item-3XjbnG{padding-top: 8px; padding-bottom: 8px;}.description-30xx7u{font-size: 16px;}
 .markup-eYLPri{font-size: 17px;}.username-h_Y3Us{font-size: 20px; font-weight: 900;}.name-3Uvkvr{font-size: 17px;}
 .bar-wDIGjg{background-color: #ff00e2;}
@@ -1108,7 +1110,6 @@ button[aria-label="Send a gift"]{display:none}
 .defaultColor-24IHKz{line-height: 25px;}
 .button-1zW0-r{background-color: #161b44;}
 .ShowAllActivities-wrapper-wrapper .ShowAllActivities-wrapper-controls{background: #161b44 !important;}
-.theme-dark.profileColors-3Y0XaR{width: 326px !important ;}
 .divider-1tWBgZ{display: none;}
 .activity-E0U09Y{background-color:#0f122e}
 .section-3FmfOT{padding:28px 0px 0px 0px}
