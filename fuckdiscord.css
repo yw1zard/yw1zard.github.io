@@ -1175,16 +1175,17 @@ button[aria-label="Send a gift"]{display:none}
 .discordMemberCreatedAt-31OkT7{display: none;}
 .form-2oOOG9{width: 440px;}
 .pencilIcon-1MUmnO{display: none;}
-.userPopoutInnerNonPremium-1EOFgI{background: #161b44 !important;border:3px solid #ff00e2;}
-.overlayBackground-2Zjm9f{background: #161b44 !important;}
-.overlayBackground-2Zjm9f{margin:4px 0px 16px;}
-.role-2TIOKu{border: none;}
-.userPopoutInnerWithBanner-24GX6I{background: #161b44;}
-.userPopoutInnerWithBanner-24GX6I{border:3px solid #ff00e2;border-radius: 10px;}
-.userPopoutInnerPremiumWithoutBanner-1FAP-h{background: var(--backgroundColor);}
-.userPopoutInnerPremiumWithoutBanner-1FAP-h{border:3px solid #ff00e2; border-radius: 10px;}
+.markup-eYLPri strong{font-size: large;}
+.userPopoutInnerWithBanner-1jusp9{background: #161b44;}
+.userPopoutInnerWithBanner-1jusp9{border:3px solid #ff00e2;border-radius: 10px;}
+.userPopoutInnerNonPremium-303mw8{background: var(--backgroundColor);}
+.userPopoutInnerNonPremium-303mw8{border:3px solid #ff00e2; border-radius: 10px;}
 .userPopoutInner-1v4xcM:before{background-color: transparent !important;}
 .userPopoutThemed-wGuRN3{background: none !important;}
+.userPopoutInnerPremiumWithoutBanner-36IBTh{background: #161b44 !important;border:3px solid #ff00e2;}
+.overlayBackground-1KgwVi{background: #161b44 !important;}
+.overlayBackground-1KgwVi{margin:4px 0px 16px;}
+.role-2TIOKu{border: none;}
 .lastSection-3_1yKt{display: none;}
 .mask-1FEkla>circle{display: none;}
 foreignObject[mask*="round-80"]{width: 96px; height: 96px;}
