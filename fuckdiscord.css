@@ -1162,10 +1162,9 @@ button[aria-label="Send a gift"]{display:none}
 .ShowAllActivities-wrapper-wrapper .ShowAllActivities-wrapper-controls .ShowAllActivities-wrapper-caret{background-color:transparent !important;}
 .bannerSVGWrapper-qc0szY {background-color: transparent;min-width: unset !important;min-height: unset !important;height: 120px}
 .bannerSVGWrapper-qc0szY mask{display: none;}
-.popoutBanner-16rVDY{width:100%;height:120px !important;background-image:url("https://imgur.com/uBOWbx6.gif")!important;background-repeat:no-repeat;background-position:50%;background-size:cover;border-top-left-radius: 10px;border-top-right-radius: 10px; }
-.banner-2boKnS{margin-top: -30px;}
+.popoutBanner-16rVDY{width:100% !important ;height:120px !important;background-image:url("https://imgur.com/uBOWbx6.gif")!important;background-repeat:no-repeat;background-position:50%;background-size:cover;border-top-left-radius: 10px;border-top-right-radius: 10px; }
+.banner-2boKnS{margin-top: -30px !important;}
 .popoutBannerPremium-2RvDNZ{height: 150px;}
-.theme-dark .root-g14mjS{width: 100% !important;height: 100%;}
 .connectedAccountNameText-tCbPXH{color: #ff00e2 !important;}
 .discordMemberCreatedAt-31OkT7{display: none;}
 .form-2oOOG9{width: 440px;}
