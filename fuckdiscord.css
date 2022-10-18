@@ -1198,3 +1198,7 @@ foreignObject[mask*="mobile-80"]{width: 96px; height: 96px;}
 .banner-2boKnS, .banner-1YaD3N{width: 100% !important;}
 .popoutBanner-16rVDY .pencilContainer-11Kuga, .popoutBannerPremium-2RvDNZ .pencilContainer-11Kuga{display: none;}
 .footer-31IekZ{border-radius: inherit;}
+.role-2TIOKu {transform: translate(0);border: 0;border-radius: var(--roles-roundness-calc);}
+.role-2TIOKu .roleRemoveIcon-387wKV {margin: 0;left: unset;transform: translate(50%,-50%);}
+.role-2TIOKu .roleRemoveButton-17oXnT{position: static}
+.role-2TIOKu .roleCircle-3K9O3d:before {content: '';top: 0;left: 0;z-index: -1;width: 100%;height: 100%;box-sizing: border-box;position: absolute;background: inherit;border-radius: var(--roles-roundness-calc);border: 3px solid transparent;-webkit-mask: linear-gradient(#000 0 0) padding-box, linear-gradient(#000 0 0);-webkit-mask-composite: xor;}
