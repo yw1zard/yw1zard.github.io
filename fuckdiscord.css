@@ -1170,13 +1170,15 @@ button[aria-label="Send a gift"]{display:none}
 .form-2oOOG9{width: 440px;}
 .pencilIcon-1MUmnO{display: none;}
 .markup-eYLPri strong{font-size: large;}
-.userProfileInnerWithBanner-3CJ1Og{background: #161b44;}
-.userProfileInnerWithBanner-3CJ1Og{border:3px solid #ff00e2;border-radius: 10px;}
-.userProfileInnerNonPremium-1XjSjn{background: var(--backgroundColor);}
-.userProfileInnerNonPremium-1XjSjn{border:3px solid #ff00e2; border-radius: 10px;}
+.userProfileInnerThemedWithBanner-2624Yx{background: #161b44;}
+.userProfileInnerThemedWithBanner-2624Yx{border:3px solid #ff00e2;border-radius: 10px;}
+.userProfileInnerThemedNonPremium-1gT-zY{background: var(--backgroundColor);}
+.userProfileInnerThemedNonPremium-1gT-zY{border:3px solid #ff00e2; border-radius: 10px;}
 .userPopoutInner-1hXSeY:before{background-color: transparent !important;}
 .userProfileOuterThemed-3EfHmv{background: none !important;}
-.userProfileInnerPremiumWithoutBanner-37uB4Q{background: #161b44 !important;border:3px solid #ff00e2;}
+.userProfileInnerThemedPremiumWithoutBanner-1yMS1H{background: #161b44 !important;border:3px solid #ff00e2;}
+.userProfileOuterThemed-3EfHmv.userPopoutOuter-3AVBmJ, .userProfileOuterThemed-3EfHmv.userProfileOuter-1K_BYU{padding: 0px;}
+.bannerSVGWrapper-qc0szY{border-top-left-radius: 10px; border-top-right-radius: 10px;}
 .overlayBackground-1KgwVi{background: #161b44 !important;}
 .overlayBackground-1KgwVi{margin:4px 0px 16px;}
 .role-2TIOKu{border: none;}
