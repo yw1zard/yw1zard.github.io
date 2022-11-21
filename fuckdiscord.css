@@ -1108,20 +1108,21 @@ button[aria-label="Send a gift"]{display:none}
 .divider-1tWBgZ{display: none;}
 .activity-E0U09Y{background-color:#0f122e}
 .section-3FmfOT{padding:28px 0px 0px 0px}
-.activity-E0U09Y{padding: 15px}
+.activity-E0U09Y{padding: 15px;}
+.activity-E0U09Y{margin-left: -12px; margin-right: -5px;}
 .overlayBackground-arbZMT{margin:4px 0px 16px;}
 .lineClamp2Plus-2RYGV2{padding-left: 16px;}
 .roles-3zC7MX{padding-left: 16px;}
-.customStatus-3Bvsdb{padding-left: 16px;}
-.userTagNoNickname-2MJ9HD{padding-left: 16px;}
-.userTagWithNickname-3-znkC{padding-left: 16px;}
+.customStatus-3Bvsdb{padding-left: 25px;}
+.userTagNoNickname-2MJ9HD{padding-left: 25px;}
+.userTagWithNickname-3-znkC{padding-left: 25px;}
 .userTagWithNickname-3-znkC{font-size: 0px;}
 .userTagWithNickname-3-znkC:hover{font-size: 14px;}
 .discrimBase-KriZSj{color: #ff00e2;}
 .messageInputContainer-2rGDH8{display: none;}
 .profileBadges-31rDHI{background-color: #161b44;}
 .lineClamp2Plus-2RYGV2{padding-left: 16px;}
-.nickname-2rimyL{padding-left: 16px;}
+.nickname-2rimyL{padding-left: 25px;}
 .avatar-2OC07D{border: none; background-color: transparent;}
 .avatarPositionNormal-V4Mjtq{top: 56px;}
 .avatarHint-2g3Mcd{top: 0px; left: 0px;}
