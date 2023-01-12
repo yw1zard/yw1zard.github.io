@@ -1200,7 +1200,7 @@ foreignObject[mask*="mobile-80"]{width: 96px; height: 96px;}
 .banner-2boKnS, .banner-1YaD3N{margin-left: 0px !important;}
 .banner-2boKnS, .banner-1YaD3N{width: 100% !important;}
 .popoutBanner-16rVDY .pencilContainer-11Kuga, .popoutBannerPremium-2RvDNZ .pencilContainer-11Kuga{display: none;}
-.footer-31IekZ{border-radius: inherit;}
+.footer-31IekZ{border-radius: 20px;}
 .role-2TIOKu {transform: translate(0);border: 0;border-radius: var(--roles-roundness-calc);}
 .role-2TIOKu .roleRemoveIcon-387wKV {margin: 0;left: unset;transform: translate(50%,-50%);}
 .role-2TIOKu .roleRemoveButton-17oXnT{position: static}
