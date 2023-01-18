@@ -32,7 +32,7 @@
 .theme-dark .modal-2RrUKJ{background-color:var(--backgroundDark)}
 .searchBar-3TnChZ .searchBarComponent-3N7dCG{background-color:var(--backgroundDark)}
 .unread-1xRYoj{background-color:var(--uiGradient1)}
-.attachPopoutRow-3uEL0J:hover:nth-child(2){color:var(--interactive-hover);background-color:#161B44!important}
+.attachPopoutRow-3uEL0J:hover:nth-child(2){color:var(--.interactive-26HRN-hover);background-color:#161B44!important}
 .theme-dark,.preview-yX6Nx7,.helpIcon-2EyVTp,.modal-2RrUKJ>*{background:#161B44!important}
 .preview-yX6Nx7{border:3px solid #161B44!important}
 .disabledButtonWrapper-3wH6-b,.colorGrey-2DXtkV:disabled{background-color:#8b0000!important;border-radius:30px!important}
@@ -487,7 +487,7 @@ foreignObject[mask*="round-80"]{mask:none!important}
 .toolbar-3_r2xA a{display:none}
 #private-channels a[href="/store"]{display:none}
 .emojiItemDisabled-3VVnwp{filter:grayscale(0%)}
-.interactive-MpGq2z:hover:hover{color:#ff00e2}
+..interactive-26HRN-MpGq2z:hover:hover{color:#ff00e2}
 .sidebar-nqHbhN{width:230px!important;padding-top:20px;padding-left:10px;padding-right:3px}
 .headerText-1qIDDT{font-weight:600}
 .name-3Vmqxm{font-weight:600}
@@ -998,14 +998,14 @@ button[aria-label="Send a gift"]{display:none}
 .searchBar-3dMhjb .icon-38sknP{display: none !important ; }
 .nameAndDecorators-2A8Bbk{color: #fff;}
 .goalTextContainer-28XMHR, .textArea-7J7xQx{display: none;}
-.interactive-1vLZ_I:focus-within, .interactive-1vLZ_I:hover{background-color: #ff00e2;}
-.interactive-1vLZ_I:hover .name-2m3Cms {color: #161b44;}
+.interactive-26HRN:focus-within, .interactive-26HRN:hover{background-color: #ff00e2;}
+.interactive-26HRN:hover .name-2m3Cms {color: #161b44;}
 .selected-3veCBZ{background-color: #161b44;}
 .selected-3veCBZ .name-2m3Cms{color: #ff00e2;}
-.interactive-1vLZ_I:hover .subtext-14b69p{color: #161b44;}
+.interactive-26HRN:hover .subtext-14b69p{color: #161b44;}
 .selected-3veCBZ .subtext-14b69p{color: #ff00e2;}
 .linkButtonIcon-7rsZcu{color: #ff00e2;}
-.interactive-1vLZ_I:hover .linkButtonIcon-7rsZcu{color: #161b44;}
+.interactive-26HRN:hover .linkButtonIcon-7rsZcu{color: #161b44;}
 .subText-3Sk0zy{font-weight: bolder;}
 .container-2giAcK{display: none;}
 .overflow-1wOqNV{line-height: 24px;}
