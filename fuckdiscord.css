@@ -997,11 +997,11 @@ button[aria-label="Send a gift"]{display:none}
 .searchBar-3dMhjb .icon-38sknP{display: none !important ; }
 .nameAndDecorators-2A8Bbk{color: #fff;}
 .goalTextContainer-28XMHR, .textArea-7J7xQx{display: none;}
-.interactive-26HRN_:focus-within, .interactive-26HRN_:hover{background-color: #ff00e2;}
-.interactive-26HRN_:focus-within, .interactive-26HRN_:hover .name-2m3Cms {color: #161b44;}
-.interactiveSelected-29CP8y{background-color: #161b44;}
-.interactive-26HRN:hover .name-2m3Cms{color: #161b44;}
-.interactiveSelected-29CP8y .name-2m3Cms{color: #ff00e2;}
+.interactive-26HRN_:focus-within, .interactive-26HRN_:hover{background-color: #ff00e2 !important;}
+.interactive-26HRN_:focus-within, .interactive-26HRN_:hover .name-2m3Cms {color: #161b44 !important;}
+.interactiveSelected-29CP8y{background: #161b44 !important;}
+.interactive-26HRN:hover .name-2m3Cms{color: #161b44 !important;}
+.interactiveSelected-29CP8y .name-2m3Cms{color: #ff00e2 !important;}
 .linkButtonIcon-7rsZcu{color: #ff00e2;}
 .interactive-26HRN:hover .linkButtonIcon-7rsZcu{color: #161b44;}
 .subText-3Sk0zy{font-weight: bolder;}
