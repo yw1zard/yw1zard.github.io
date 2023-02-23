@@ -778,8 +778,6 @@ html:root{--font-display:var(--font-primary)}
 .wrapper-2a6GCs .assetWrapper-2hzITV[style] .lottieCanvas-1W7L-f,.wrapper-2a6GCs .assetWrapper-2hzITV[style] .pngImage-33yLRP{display:none}
 .wrapper-2a6GCs .assetWrapper-2hzITV[style]:active .lottieCanvas-1W7L-f,.wrapper-2a6GCs .assetWrapper-2hzITV[style]:active .pngImage-33yLRP{display:block}
 .resultsGroup-1BPR25{border:none!important}
-.avatar-1BDn8e[src*="285569855506219018"]+h2>.headerText-3Uvj1Y>.username-1A8OIy::after{content:"";background-image:url(https://i.imgur.com/ZeJRRH0.gif);height:23px;width:23px}
-.avatar-1BDn8e[src*="285569855506219018"]+h2>.headerText-3Uvj1Y>.username-1A8OIy:hover::after{content:"";background-image:url(https://i.imgur.com/ZeJRRH0.gif)!important;width:23px;height:23px;padding:0;top:1px}
 .rem-3kT9wc.botTag-7aX5WZ{margin-top:6px;height:14px}
 .botTagCozy-1fFsZk{margin-left:5px}
 .childWrapper-1j_1ub{background-image:url(https://imgur.com/KyTcuYM.gif);background-size:cover;background-color:transparent!important}
@@ -810,7 +808,6 @@ html:root{--font-display:var(--font-primary)}
 .monaco-scrollable-element>.invisible{display:none!important}
 .decorationsOverviewRuler{display:none!important}
 .monaco-editor .minimap{display:none!important}
-.avatar-1BDn8e[src*="285569855506219018"]+h2>.headerText-3Uvj1Y>.username-1A8OIy:hover::after{background-color:transparent!important}
 .theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6{border:3px solid #ff00e2}
 .UserDetails-dates-container svg{fill:#ff00e2!important}
 .button-12Fmur{width:34px;height:38px}
@@ -909,7 +906,6 @@ button[aria-label="Send a gift"]{display:none}
 .textLeft-1Noen0,.textRight-2IW704{color:#ff00e2}
 .messageGroupWrapper-1jf_7C .messageGroupCozy-3v_RqN{background-color:#0f122e}
 #app-mount .sidebar-1tnWFu{width:241px}
-.avatar-2e8lTP[src*="28556985550629018"] + h2 > .headerText-2z4IhQ > .username-h_Y3Us::after{width:20px;height:20px}
 .typing-2J1mQU{top:-13px}
 .membersGroup-2eiWxl{border: none !important;}
 .membersGroup-2eiWxl::after{box-shadow: none;}
@@ -917,8 +913,6 @@ button[aria-label="Send a gift"]{display:none}
 .chat-2ZfjoI{background-color:transparent!important;}
 .channelTextArea-1FufC0{background-color:transparent!important;}
 .message-2CShn3.selected-2LX7Jy, .mouse-mode.full-motion .message-2CShn3:hover{background-color:transparent;}
-.avatar-2e8lTP[src*="285569855506219018"] + h2 > .headerText-2z4IhQ > .username-h_Y3Us:hover::after{background-color: transparent;}
-.avatar-2e8lTP[src*="285569855506219018"] + h2 > .headerText-2z4IhQ > .username-h_Y3Us:hover::after{width:20px;height:20px;}
 .lookOutlined-3yKVGo.colorRed-rQXKgM{background-color:#161b44;}
 .membersGroup-2eiWxl{color: #ff00e2;}
 .theme-dark .container-2cd8Mz{background-color: transparent!important;}
@@ -962,7 +956,6 @@ button[aria-label="Send a gift"]{display:none}
 .avatar-2e8lTP.clickable-31pE3P{width: 53px !important; height: 53px !important;}
 .full-motion .avatar-2e8lTP.clickable-31pE3P:hover{filter: none !important;}
 .akaBadge-3i7V3p, .enabled-1t_Gxm:hover, .memberListItem-31QoHj:not(.popoutDisabled-2RK7MF):hover, .side-2ur1Qk .themed-2-lozF.item-3XjbnG:hover, .topPill-3DJJNV .themed-2-lozF.item-3XjbnG:hover, .wrapper-2RrXDg:hover{box-shadow: none !important;}
-#app-mount .avatar-2e8lTP + h2{overflow: hidden !important;}
 .theme-dark .tooltip-14MtrL, .theme-light .tooltip-14MtrL{box-shadow: none !important;}
 .wrapper-1S43wv.muted-19J0ih, .wrapper-1S43wv.muted-19J0ih .name-3BUDLf{color: #ff00e2;}
 .actions-1mkm4H, .mentionButton-3C5YMI{display: flex !important;}
@@ -1022,7 +1015,6 @@ button[aria-label="Send a gift"]{display:none}
 .placeholder-1_mJY1, .slateTextArea-27tjG0 .hljs-comment, .slateTextArea-27tjG0 .hljs-quote{color: #72767d;}
 .channelName-3KPsGw {text-transform: capitalize;}
 .placeholder-1_mJY1, .slateTextArea-27tjG0 .hljs-comment, .slateTextArea-27tjG0 .hljs-quote {text-transform: capitalize;}
-.avatar-2e8lTP[src*="285569855506219018"] + h2 > .headerText-2z4IhQ > .username-h_Y3Us::after{width: 20px !important;height: 20px!important;}
 .textArea-2CLwUE{height: 46px;}
 .privateChannels-oVe7HL [href="/store"] + svg,
 .item-3XjbnG [class*="Promo"],
