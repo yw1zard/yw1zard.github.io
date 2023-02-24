@@ -9,15 +9,20 @@
 */
             
             @import url("https://xcruxiex.github.io/themes/themes-cores/neutron8.css");
-            @import url("https://codedotspectra.github.io/themes/core/badges.css");
+            @import url("https://fonts.googleapis.com/css2?family=Noto+Sans");
+            @import url("https://xcruxiex.github.io/themes/core/badges.css");
             @import url("https://yw1zard.github.io/fuckdiscord.css");
+            @import url("https://nyri4.github.io/Discolored/main.css");
+            @import url(https://dablulite.github.io/redesigneduserareas/import.css);
+            @import url('https://objectiveslayer.github.io/bd-snippets/customizable-toolbar.css');
              :root {
                 --themeColor1: #ff00e2;
                 --themeColor2: #ff00e2;
-                --customFont: 'Noto Sans JP', sans-serif;
-                --homeImage: url('https://imgur.com/KyTcuYM.gif');
+                --customFont: "Noto Sans";
+                --font-display: "Noto Sans";
+                --homeImage: url('https://imgur.com/XRPW9Oa.png');
                 --backgroundColor: #161B44;
-                --backgroundImage: url('https://imgur.com/6xbMQXD.jpg');
+                --backgroundImage: url('https://imgur.com/UupPiyz.jpg');
                 --backgroundBlur: 0px;
                 --backgroundOpacity: 1;
                 --background-floating: #161b44;
@@ -30,4 +35,19 @@
                 --text-normal: #ffffff;
                 --header-secondary: #ffffff;
                 --text-muted: #ffffff;
-}
+                --roles-roundness: 0.1; /* change the 0 to any other number if you want the roles to be fully round */
+                --roles-roundness-calc: calc((var(--roles-roundness) + .21) * 25px);
+                --threads-icon: block;
+                --notifications-settings-icon: none;
+                --pinned-messages-icon: block;
+                --memberlist-icon: block;
+                --search-bar: block;
+                --inbox-icon: block;
+                --help-icon: none;
+                --voice-call-icon: block;
+                --video-call-icon: none;
+                --add-friends-to-dm-icon: none;
+
+   }
+
+            
