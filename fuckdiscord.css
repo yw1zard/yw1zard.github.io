@@ -1248,3 +1248,6 @@ foreignObject[mask*="mobile-80"]{width: 96px; height: 96px;}
 .svg-2ifYOU{width: 55px; height: 55px;}
 .wrapper-2PSQCG{height: 57px;}
 .avatarHoverTarget-l77PhT .wrapper-3Un6-K {width: 93px !important; height: 93px !important;}
+.side-1lrxIh .themed-qqoYp3.selected-1sf9UK.item-2GWPIy, .topPill-2vcLsa .themed-qqoYp3.selected-1sf9UK.item-2GWPIy{background-color: var(--backgroundColor);}
+.side-1lrxIh .item-2GWPIy{padding: 7.5px;}
+#bd-settings-sidebar .ui-tab-bar-item:hover, .side-1lrxIh .item-2GWPIy:hover{background-color: var(--themeColor1) !important;color: var(--backgroundColor);}
