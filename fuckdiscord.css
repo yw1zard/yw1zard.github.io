@@ -1167,7 +1167,7 @@ button[aria-label="Send a gift"]{display:none}
 .ShowAllActivities-wrapper-wrapper .ShowAllActivities-wrapper-controls .ShowAllActivities-wrapper-caret{background-color:transparent !important;}
 .bannerSVGWrapper-qc0szY {background-color: transparent;min-width: unset !important;min-height: unset !important;height: 120px}
 .bannerSVGWrapper-qc0szY mask{display: none;}
-.popoutBanner-16rVDY{width:100% !important ;height:120px !important;background-image:url("https://imgur.com/uBOWbx6.gif")!important;background-repeat:no-repeat;background-position:50%;background-size:cover;border-top-left-radius: 10px;border-top-right-radius: 10px; }
+.popoutBanner-16rVDY{width:100% !important ;height:120px !important;background-image:url("https://imgur.com/uBOWbx6.gif")!important;background-repeat:no-repeat;background-position:50%;background-size:cover;border-top-left-radius: 10px !important;border-top-right-radius: 10px  !important; }
 .banner-2boKnS{margin-top: -30px !important;}
 .popoutBannerPremium-2RvDNZ{height: 150px;}
 .connectedAccountNameText-tCbPXH{color: #ff00e2 !important;}
