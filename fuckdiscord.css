@@ -1257,3 +1257,6 @@ foreignObject[mask*="mobile-80"]{width: 96px; height: 96px;}
 .avatar-1HDIsL foreignObject {mask: none ;}
 .wrapperSimple-2SFl9K{overflow: initial;}
 .wrapperSimple-2SFl9K{border-radius: 0px;}
+.colorDefault-2_rLdz.focused-3LIdPu .status-qmUf7L, .description-22_U3B{color: var(--backgroundColor);}
+.colorDefault-2_rLdz.focused-3LIdPu .description-22_U3B {color: var(--backgroundColor);}
+.status-qmUf7L, .statusItem-2a1giL .description-22_U3B{color: var(--themeColor1);}
