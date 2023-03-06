@@ -1261,3 +1261,5 @@ foreignObject[mask*="mobile-80"]{width: 96px; height: 96px;}
 .colorDefault-2_rLdz.focused-3LIdPu .description-22_U3B {color: var(--backgroundColor);}
 .status-qmUf7L, .statusItem-2a1giL .description-22_U3B{color: var(--themeColor1);}
 .banner-2boKnS, .banner-1YaD3N{border-radius: 0px;}
+.theme-dark .rootWithShadow-2hdL2J{border: none;}
+.userProfileInner-3F03PX:before{border: none;}
