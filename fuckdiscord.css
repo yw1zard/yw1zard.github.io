@@ -1308,5 +1308,5 @@ foreignObject[mask*="mobile-80"]{width: 96px; height: 96px;}
 .largeAvatar-ItACsd{display: none;}
 .colorDefault-2_rLdz.focused-3LIdPu .status-2xYiEF, .description-1Dd2kv{color: var(--backgroundColor);}
 .colorDefault-2_rLdz.focused-3LIdPu .description-1Dd2kv {color: var(--backgroundColor);}
-.profileBadges-2pItdR{background-color: #161b44;}
+.profileBadges-2pItdR{background-color: #161b44 !important;}
 .cardPrimary-pAe8Ed.outline-3kFzf8{background-color: var(--backgroundColor);border: solid 3px var(--themeColor1);}
