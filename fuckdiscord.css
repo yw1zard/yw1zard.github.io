@@ -757,7 +757,7 @@ html:root{--font-display:var(--font-primary)}
 .listDefault-2F-w65 .clickable-1ctZ-H:hover .content-1Tgc42{background-color:transparent}
 .partnered-3nJayh{margin-top:5px}
 .popoutBanner-3cqRD9{width:300px;height:120px;background-image:url("https://imgur.com/uBOWbx6.gif")!important;background-repeat:no-repeat;background-position:50%;background-size:cover}
-.avatarPositionNormal-2jWoC2{top:76px}
+.avatarPositionNormal-2jWoC2{top:61px}
 .welcomeCTAButtonOuter-3pJkMq{display:none}
 .backdrop-2ByYRN::before,.backdropWithLayer-3_uhz4::before{backdrop-filter:none}
 .role-2irmRk{height:23px}
@@ -1308,3 +1308,4 @@ foreignObject[mask*="mobile-80"]{width: 96px; height: 96px;}
 .largeAvatar-ItACsd{display: none;}
 .colorDefault-2_rLdz.focused-3LIdPu .status-2xYiEF, .description-1Dd2kv{color: var(--backgroundColor);}
 .colorDefault-2_rLdz.focused-3LIdPu .description-1Dd2kv {color: var(--backgroundColor);}
+.profileBadges-2pItdR{background-color: #161b44;}
