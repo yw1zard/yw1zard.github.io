@@ -1317,3 +1317,7 @@ foreignObject[mask*="mobile-80"]{width: 96px; height: 96px;}
 #app-mount .openChatIconItem-2kj5qO {display: flex;order: 1;justify-content: center;border-radius: 4px;width: 42px;padding-right: 0;}
 .openChatIconItem-2kj5qO .actionIcon-2sw4Sl { color: #ff00e2; }
 .actionIcon-2sw4Sl{display: block;}
+.avatarDecoration-2Wb1Au{display: none ;}
+.userProfileModalOuter-2wdWjU{width: unset;}
+.body-1Ukv50{background-color: #161b44;}
+.overlayBackground-2aa7wt{background-color: #161b44;}
