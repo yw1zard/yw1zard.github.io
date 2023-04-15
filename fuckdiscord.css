@@ -1322,3 +1322,7 @@ foreignObject[mask*="mobile-80"]{width: 96px; height: 96px;}
 .userProfileModalOuter-2wdWjU{width: unset;}
 .body-1Ukv50{background-color: #161b44 !important;}
 .overlayBackground-2aa7wt{background-color: #161b44;}
+.picker-20lcBA{background-color: var(--backgroundColor); border: 3px solid var(--themeColor1);}
+.soundInfo-1vWb45{background-color: #0e122b;}
+.categoryList-iuh2t0{border-left: 3px solid var(--themeColor1);border-bottom: 3px solid var(--themeColor1)}
+.soundButton-2P2Ua2{background-color: var(--backgroundColor);}
