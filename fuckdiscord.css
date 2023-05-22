@@ -1335,3 +1335,7 @@ foreignObject[mask*="mobile-80"]{width: 96px; height: 96px;}
 #floating-editor-window{max-width: unset; max-height: unset;}
 .sidebar-nqHbhN{padding-top: 64px !important;}
 .theme-dark .guildPopout-1PxOP0{border: 3px solid #ff00e2;border-radius: 10px;}
+.field-21XZwa .fieldButton-14lHvK{background-color: #0006 !important;border: 2px solid #ff00e2;border-radius: 10px;}
+.field-21XZwa .fieldButton-14lHvK:hover{background-color: #ff00e2 !important; color: #161b44;}
+.inputDefault-Ciwd-S{border: 2px solid #ff00e2;border-radius: 10px;}
+.input-3O04eu:hover{border: 2px solid #ff00e2;border-radius: 10px;}
