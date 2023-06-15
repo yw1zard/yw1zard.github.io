@@ -1,3 +1,4 @@
 discord makes dumb changes
 
-![ApeepoStare](https://user-images.githubusercontent.com/77034355/151495024-d722fc9d-3809-445f-b71c-f89917448918.png)
+
+![   dumb](https://github.com/yw1zard/yw1zard.github.io/assets/77034355/43135bda-5e12-41f0-bba0-7134a8eaf2f8)
