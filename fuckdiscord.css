@@ -1345,3 +1345,6 @@ foreignObject[mask*="mobile-80"]{width: 96px; height: 96px;}
 .userTagUsernameBase-267ALn{color: #ff00e2;}
 .item-1TA5qI:hover:not([aria-checked=true]):not(.disabled-WBmOu_){color: #fff;}
 .badgeList-b3Ajmk{display: none;}
+.userTagUsernameBase-267ALn:not(.username-3JLfHz)::before {content: "@";}
+.pronouns-17_QV6{padding-left: 16px;}
+.reactionTooltip-3IOBwg{background-color: #161b44; border: 3px solid #ff00e2;}
