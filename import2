@@ -100,7 +100,6 @@ foreignObject[mask*="round-80"]{mask:none!important}
 .channelTextArea-rNsIhG .buttons-3JBrkn .buttonWrapper-3YFQGJ+.buttonWrapper-3YFQGJ[tabindex="0"]{display:none}
 .theme-dark .focused-2FU0YH{background-color:#00000090!important}
 .channelTextArea-rNsIhG .buttons-3JBrkn .buttonWrapper-3YFQGJ[aria-label="Send a gift"i]{display:none}
-.container-1eFtFS,.theme-dark .layer-86YKbF,.theme-dark .layers-OrUESM{background-color:rgba(1,1,1,0.03)!important}
 .unread-1xRYoj{background-color:#36D1DC}
 .headerText-1qIDDT{color:#000}
 .theme-dark .option-2KkUJO.selected-rZcOL-{background-color:#36D1DC}
@@ -120,7 +119,7 @@ foreignObject[mask*="round-80"]{mask:none!important}
 .cozy-3raOZG .messageContent-2qWWxC{color:#000}
 .modemuted .name-3_Dsmg,.wrapper-1ucjTd .name-3_Dsmg{color:#000}
 .markup-eYLPri{color:#000}
-.modeMuted-3osy7j .icon-1_QxNX,.modeMuted-3osy7j .name-3_Dsmg{color:#6b005e}
+.modeMuted-3osy7j .icon-1_QxNX,.modeMuted-3osy7j .name-3_Dsmg{color:#1c6b70}
 .modeSelected-1zApJ_ .icon-1_QxNX,.modeSelected-1zApJ_ .name-3_Dsmg,.modeSelected-1zApJ_:hover .icon-1_QxNX:hover,.modeSelected-1zApJ_:hover .name-3_Dsmg:hover{color:#36D1DC!important}
 .wrapper-1ZcZW-{background-color:transparent!important;box-shadow:none!important}
 .emoji.jumboable{width:53px;height:53px}
@@ -311,7 +310,7 @@ foreignObject[mask*="round-80"]{mask:none!important}
 .name-28HaxV{color:#000}
 .icon-2W8DHg{color:#36D1DC!important}
 .mainContent-uDGa6R{color:#36D1DC}
-.modeMuted-2T4MDZ .icon-2W8DHg,.modeMuted-2T4MDZ .name-28HaxV{color:#6b005e}
+.modeMuted-2T4MDZ .icon-2W8DHg,.modeMuted-2T4MDZ .name-28HaxV{color:#1c6b70}
 .modeSelected-3DmyhH .content-1gYQeQ,.modeSelected-3DmyhH:hover .content-1gYQeQ{background-color:#00000090}
 .actionIcon-2sw4Sl{color:#36D1DC}
 .modeUnread-3Cxepe .name-28HaxV{color:#36D1DC}
