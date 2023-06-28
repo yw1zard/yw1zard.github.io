@@ -13,6 +13,10 @@
 @import url('https://xcruxiex.github.io/themes/themes-cores/neutron8.css');
 @import url("https://yw1zard.github.io/import2.css");
 @import url('https://nyri4.github.io/Discolored/main.css');
+@import url(https://dablulite.github.io/redesigneduserareas/import.css);
+@import url('https://objectiveslayer.github.io/bd-snippets/customizable-toolbar.css');
+@import url(https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css);
+@import url(//dablulite.github.io/css-snippets/AccountDetailsGrid/import.css);
 
 :root {
   --backgroundImage: url('https://imgur.com/F2KpI41.jpg');
@@ -32,5 +36,6 @@
 }
 
 /* Any custom CSS below here */
+
 
 
