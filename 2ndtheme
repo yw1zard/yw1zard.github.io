@@ -33,9 +33,32 @@
   --customFont: Open Sans;
   --backgroundCode: rgba(0 0 0 /.5);
   --backgroundName: rgba(0 0 0 /.5);
+  --background-floating: #000;
+  --button-secondary-background: #000;
+  --button-secondary-background-hover: #36D1DC;
+  --background-primary: #000;
+  --background-secondary: #000;
+  --background-accent: #000;
+  --background-secondary-alt: #000;
+  --background-tertiary: #000;
+  --interactive-normal: #ffffff;
+  --text-normal: #ffffff;
+  --header-secondary: #ffffff;
+  --text-muted: #ffffff;
+  --roles-roundness: 0.1; /* change the 0 to any other number if you want the roles to be fully round */
+  --roles-roundness-calc: 10px;
+  --threads-icon: block;
+  --notifications-settings-icon: none;
+  --pinned-messages-icon: block;
+  --memberlist-icon: block;
+  --search-bar: block;
+  --inbox-icon: block;
+  --help-icon: none;
+  --voice-call-icon: block;
+  --video-call-icon: none;
+  --add-friends-to-dm-icon: none;
+
 }
 
 /* Any custom CSS below here */
-
-
 
