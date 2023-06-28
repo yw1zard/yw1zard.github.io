@@ -111,7 +111,7 @@ foreignObject[mask*="round-80"]{mask:none!important}
 .theme-dark .autocompleteArrow-jJE9TQ,.theme-dark .header-3i_Csh{background-color:#000}
 .blockquoteDivider-363utW{background-color:#36D1DC}
 .modemuted .name-3_Dsmg,.wrapper-1ucjTd:hover .name-3_Dsmg{color:#36D1DC!important}
-.name-3Vmqxm{color:#000}
+.name-3Vmqxm{color:#fff}
 .linkButtonIcon-7rsZcu{color:#36D1DC}
 .header-145e10,.header-145e10 .tab-TRrPC8{background-color:#000!important}
 .wrapper-CU3qI5.muted-1NRuDm .icon-WnO6o2,.wrapper-CU3qI5.muted-1NRuDm .name-IbjUBS,.wrapper-CU3qI5 .icon-WnO6o2,.wrapper-CU3qI5 .name-IbjUBS{color:#000!important}
@@ -310,7 +310,7 @@ foreignObject[mask*="round-80"]{mask:none!important}
 .name-28HaxV{color:#000}
 .icon-2W8DHg{color:#36D1DC!important}
 .mainContent-uDGa6R{color:#36D1DC}
-.modeMuted-2T4MDZ .icon-2W8DHg,.modeMuted-2T4MDZ .name-28HaxV{color:#1c6b70}
+.modeMuted-2T4MDZ .icon-2W8DHg,.modeMuted-2T4MDZ .name-28HaxV{color:#000}
 .modeSelected-3DmyhH .content-1gYQeQ,.modeSelected-3DmyhH:hover .content-1gYQeQ{background-color:#000}
 .actionIcon-2sw4Sl{color:#36D1DC}
 .modeUnread-3Cxepe .name-28HaxV{color:#36D1DC}
@@ -1356,5 +1356,11 @@ foreignObject[mask*="mobile-80"]{width: 96px; height: 96px;}
 .username-h_Y3Us{color: #36D1DC;}
 .repliedMessage-3Z6XBG{color: #000 !important;}
 .button-3bklZh{color: #fff ;}
-.icon-1zidb7{color: #fff ;}
-
+.icon-1zidb7{color: #fff;}
+.item-2LIpTv{background-color: #000;}
+.unread-36eUEm{background-color: #000;}
+.markup-eYLPri h1, .markup-eYLPri h2, .markup-eYLPri h3, .markup-eYLPri h4, .markup-eYLPri h5, .markup-eYLPri h6{color: #000;}
+.timestamp-p1Df1m{color: #000 !important;}
+.header-3anOjb{color: #000;}
+.count-62gVQ0{color: #000;}
+.guildName-3G4jq-{color: #000;}
