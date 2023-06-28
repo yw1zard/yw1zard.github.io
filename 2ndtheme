@@ -19,7 +19,7 @@
 @import url(//dablulite.github.io/css-snippets/AccountDetailsGrid/import.css);
 
 :root {
-  --backgroundImage: url('https://imgur.com/F2KpI41.jpg');
+  --backgroundImage: url("https://imgur.com/qOyWRci.png"); /*url("https://imgur.com/7x5HY72.png");*/ /*url("https://imgur.com/ShoR041.jpg");*/
   --backgroundColor: #000;
   --backgroundSize: cover;
   --backgroundPosition: center;
@@ -29,7 +29,7 @@
   --homeImage: url('https://imgur.com/XRPW9Oa.png');
   --homeImageSize: cover;
   --themeColor1: #36D1DC;
-  --themeColor2: #004FFF;
+  --themeColor2: #36D1DC;
   --customFont: Open Sans;
   --backgroundCode: rgba(0 0 0 /.5);
   --backgroundName: rgba(0 0 0 /.5);
@@ -61,4 +61,5 @@
 }
 
 /* Any custom CSS below here */
+
 
