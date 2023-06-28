@@ -2,7 +2,7 @@
 .channelTextArea-rNsIhG{background-color:transparent}
 .form-2fGMdU:before{display:none}
 .form-2fGMdU{margin-top:0}
-.wrapper-2vIMkT{background-color:var(--main-dark);border:none;box-shadow:0 0 5px 1.5px rgba(0,0,0,.75)}
+.wrapper-2vIMkT{background-color:#000;border:none;box-shadow:0 0 5px 1.5px;}
 .wrapper-2vIMkT:hover{box-shadow:0 0 5px 1.87px rgba(0,0,0,.75)}
 .separator-PzTEkx{background-color:transparent}
 .content-3spvdd{background-color:transparent!important;border:0 solid #000!important;border-radius:0}
@@ -1351,3 +1351,10 @@ foreignObject[mask*="mobile-80"]{width: 96px; height: 96px;}
 .brand-2EKq3J.item-2GWPIy, .themed-qqoYp3.item-2GWPIy{color: ##fff;}
 .headerContent-2SNbie{color: #000;}
 .theme-dark .hljs-code, .theme-dark .hljs-comment, .theme-dark .hljs-formula{color: #fff !important;}
+.side-1lrxIh .item-2GWPIy{color: #000 ;}
+.side-1lrxIh .themed-qqoYp3.selected-1sf9UK.item-2GWPIy, .topPill-2vcLsa .themed-qqoYp3.selected-1sf9UK.item-2GWPIy{color: #fff;}
+.username-h_Y3Us{color: #36D1DC;}
+.repliedMessage-3Z6XBG{color: #000 !important;}
+.button-3bklZh{color: #fff ;}
+.icon-1zidb7{color: #fff ;}
+
