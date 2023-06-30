@@ -28,14 +28,14 @@
   --backgroundOpacity: 1;
   --homeImage: url('https://imgur.com/XRPW9Oa.png');
   --homeImageSize: cover;
-  --themeColor1: #36D1DC;
-  --themeColor2: #36D1DC;
+  --themeColor1: #EB7752;
+  --themeColor2: #EB7752;
   --customFont: Open Sans;
   --backgroundCode: rgba(0 0 0 /.5);
   --backgroundName: rgba(0 0 0 /.5);
   --background-floating: #000;
   --button-secondary-background: #000;
-  --button-secondary-background-hover: #36D1DC;
+  --button-secondary-background-hover: #EB7752;
   --background-primary: #000;
   --background-secondary: #000;
   --background-accent: #000;
