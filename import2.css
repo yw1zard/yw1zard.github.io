@@ -1412,3 +1412,9 @@ foreignObject[mask*="mobile-80"]{width: 96px; height: 96px;}
 .container-ZMc96U, .container-ZMc96U * span {color: #EB7752;}
 .option-ayUoaq .answer-14OVbQ, .option-ayUoaq .filter-2QaH9y, .option-ayUoaq strong {color: #EB7752;}
 .assets-3PQvAh img, .gameIcon-1siQqm{box-shadow: none;}
+.theme-dark .contentTitle-3CylD3{color: var(--themeColor1);}
+.theme-dark .optionPill-2kmuZR{background-color: var(--themeColor1);}
+.theme-dark .optionPillKey-2JyeoP{background-color: var(--themeColor1);}
+.h5-2feg8J, .label-7akf7-, .legend-3BgtI3{color: var(--themeColor1);font-weight: 900;}
+.theme-dark .lookLink-13iF2K.colorPrimary-2-Lusz{color: var(--themeColor1);}
+.lookFilled-1H2Jvj.colorPrimary-2-Lusz{color: var(--themeColor1);}
