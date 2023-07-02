@@ -1381,4 +1381,38 @@ foreignObject[mask*="mobile-80"]{width: 96px; height: 96px;}
 .h5-2feg8J, .label-7akf7-, .legend-3BgtI3{color: var(--themeColor1);font-weight: 900;}
 .theme-dark .lookLink-13iF2K.colorPrimary-2-Lusz{color: var(--themeColor1);}
 .lookFilled-1H2Jvj.colorPrimary-2-Lusz{color: var(--themeColor1);}
-
+.userProfileInnerThemedWithBanner-25XGmz{background: #000;}
+.userProfileInnerThemedWithBanner-25XGmz{border:3px solid #EB7752;border-radius: 10px;}
+.userProfileInnerThemedNonPremium-2AJg-H{background: #000;}
+.userProfileInnerThemedNonPremium-2AJg-H{border:3px solid #EB7752; border-radius: 10px;}
+.userPopoutInner-nv9Y92:before{background-color: transparent !important;}
+.userProfileOuterThemed-3EfHmv{background: none !important;}
+.userProfileInnerThemedPremiumWithoutBanner-lZ9inp{background: #000 !important;border:3px solid #EB7752;}
+.userProfileOuterThemed-3EfHmv.userPopoutOuter-3AVBmJ, .userProfileOuterThemed-3EfHmv.userProfileOuter-1K_BYU{padding: 0px;}
+.bannerSVGWrapper-2CLfzN{border-top-left-radius: 10px; border-top-right-radius: 10px;}
+.userPopoutOverlayBackground-3A0Pcz{background: #000 !important;}
+.userPopoutOverlayBackground-3A0Pcz{margin:4px 0px 16px;}
+.container-1gYwHN{background-color: #000;}
+.bannerSVGWrapper-2CLfzN {background-color: transparent;min-width: unset !important;min-height: unset !important;height: 120px}
+.bannerSVGWrapper-2CLfzN mask{display: none;}
+.ppopoutBanner-3cqRD9{width:100% !important ;height:120px !important;background-image:url("https://imgur.com/uBOWbx6.gif")!important;background-repeat:no-repeat;background-position:50%;background-size:cover;border-top-left-radius: 10px !important;border-top-right-radius: 10px  !important; }
+.banner-1YaD3N{margin-top: -30px !important;}
+.bannerPremium-kkSkPv{height: 150px;}
+.profileBadges-2pItdR{background-color: #000 !important;}
+.userProfileOuterThemed-2BgJCM.userPopoutOuter-1OHwPL, .userProfileOuterThemed-2BgJCM.userProfileOuter-2tQwNf{padding: 0px;}
+.container-1gYwHN{padding-bottom: 17px;}
+.role-2TIOKu{background-color:#000}
+.banner-2boKnS, .banner-1YaD3N{border-radius: 0px;}
+.activity-3uaYny{background-color: #ffa98c;padding: 10px;margin-left: -15px;margin-right: -5px;}
+.activity-3uaYny{background-color:#EB7752 ;}
+.lineClamp2Plus-2RYGV2{padding-left: 16px;}
+.roles-3zC7MX{padding-left: 16px;}
+.memberSinceContainer-3biwiY{padding-left: 16px;}
+.lineClamp2Plus-2SCQmH{padding-left: 16px;}
+.defaultColor-1GKx81{padding-left: 16px;}
+.userTagWithNickname-13lfvd{padding-left: 16px;}
+.userTagNoNickname-h9Bh88{padding-left: 16px;}
+.roles-3vQPxb{padding-left: 16px;}
+.body-u1Y8uL{padding-left: 16px;}
+.customStatus-19KW6v{padding-left: 16px;}
+.pronouns-17_QV6{padding-left: 16px;}
