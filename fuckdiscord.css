@@ -312,18 +312,18 @@ foreignObject[mask*="round-80"]{mask:none!important}
 .icon-2W8DHg{color:#ff00e2!important}
 .mainContent-uDGa6R{color:#ff00e2}
 .modeMuted-2T4MDZ .icon-2W8DHg,.modeMuted-2T4MDZ .name-28HaxV{color:#6b005e}
-.modeSelected-3DmyhH .content-1gYQeQ,.modeSelected-3DmyhH:hover .content-1gYQeQ{background-color:#161B44}
+.modeSelected-3DmyhH .link-1_kTxV,.modeSelected-3DmyhH:hover .link-1_kTxV{background-color:#161B44}
 .actionIcon-2sw4Sl{color:#ff00e2}
 .modeUnread-3Cxepe .name-28HaxV{color:#ff00e2}
-.modeSelected-3DmyhH .content-1gYQeQ{border-right:5px solid #ff00e2!important}
-.content-1gYQeQ:hover{background-color:#ff00e2!important}
+.modeSelected-3DmyhH .link-1_kTxV{border-right:5px solid #ff00e2!important}
+.link-1_kTxV:hover{background-color:#ff00e2!important}
 .container-36u7Lw{color:#ff00e2!important}
-.content-1gYQeQ:hover .name-28HaxV{color:#000!important}
-.content-1gYQeQ:hover.name-28HaxV.modeUnread-3Cxepe{color:#000!important}
-.content-1gYQeQ:hover .icon-2W8DHg{color:#000!important}
+.link-1_kTxV:hover .name-28HaxV{color:#000!important}
+.link-1_kTxV:hover.name-28HaxV.modeUnread-3Cxepe{color:#000!important}
+.link-1_kTxV:hover .icon-2W8DHg{color:#000!important}
 .unread-36eUEm{background-color:#ff00e2}
-.content-1gYQeQ:hover .actionIcon-2sw4Sl{color:#000}
-.modeSelected-3DmyhH .content-1gYQeQ .name-28HaxV{color:#ff00e2}
+.link-1_kTxV:hover .actionIcon-2sw4Sl{color:#000}
+.modeSelected-3DmyhH .link-1_kTxV .name-28HaxV{color:#ff00e2}
 .mention-1f5kbO{background-color:#ff00e2;color:#000}
 .unread-1xRYoj{color:#000}
 .container-A2jo65{background-color:#161B44}
@@ -507,7 +507,7 @@ foreignObject[mask*="round-80"]{mask:none!important}
 .linkButtonIcon-7rsZcu{color:#fff}
 .theme-dark .card-2ART2V:before{border-color:#ff00e2}
 .bd-switch-checked,.bd-switch{background:transparent}
-.containerDefault-YUSmu3.selected-37j_iU .modeSelected-3DmyhH .content-1gYQeQ::before,.modeSelected-3DmyhH .content-1gYQeQ::before,.modeSelected-3DmyhH:hover .content-1gYQeQ::before{background:none}
+.containerDefault-YUSmu3.selected-37j_iU .modeSelected-3DmyhH .link-1_kTxV::before,.modeSelected-3DmyhH .link-1_kTxV::before,.modeSelected-3DmyhH:hover .link-1_kTxV::before{background:none}
 .moreUsers-_v6T-L{background-color:#ff00e2;color:#000}
 .theme-dark .tooltipPrimary-3qLMbS .tooltipPointer-3L49xb,.theme-light .tooltipPrimary-3qLMbS .tooltipPointer-3L49xb{border-top-color:#161b44!important}
 .container-8Futzw{border:solid 3px #ff00e2}
@@ -766,7 +766,7 @@ html:root{--font-display:var(--font-primary)}
 .container-36u7Lw{font-size:14px}
 .container-36u7Lw{font-weight:900}
 .container-36u7Lw{padding-left:9px}
-.containerDefault-YUSmu3 .content-1gYQeQ{transition:none}
+.containerDefault-YUSmu3 .link-1_kTxV{transition:none}
 .actionIcon-2sw4Sl{display:none}
 .circleIconButton-1XqULR{display:none}
 .guildNameText-jBFbNC{line-height:28px}
@@ -801,7 +801,7 @@ html:root{--font-display:var(--font-primary)}
 .markup-eYLPri{line-height:24px}
 .input-1GLP_D{display:block!important}
 .container-2o3qEW{background-color:transparent}
-.content-1gYQeQ{margin-left:5px}
+.link-1_kTxV{margin-left:5px}
 .colorInteractiveNormal-36ZhyZ{color:#fff}
 .premiumUpsell-2K2V_c{display:none}
 .wrapper-2SplAX{display:none}
@@ -1039,7 +1039,7 @@ button[aria-label="Send a gift"]{display:none}
 .passthrough--fbdFR.selected-3jieYB{background-color: #000;}
 .header-3OsQeK{padding: 13px 16px !important}
 .guildSeparator-a4uisj{display: none;}
-.wrapper-NhbLHG:hover .content-1gYQeQ{background-color: #ff00e2 !important;}
+.wrapper-NhbLHG:hover .link-1_kTxV{background-color: #ff00e2 !important;}
 .modeMuted-2T4MDZ:hover .name-28HaxV, .wrapper-NhbLHG:hover .icon-2W8DHg, .wrapper-NhbLHG:hover .name-28HaxV{color: #161b44 !important;}
 .topPill-3DJJNV .item-3XjbnG{line-height: 25px;}
 .userInfoSection-3her-v .userInfoBody-1zgAd0{color: #ff00e2;}
