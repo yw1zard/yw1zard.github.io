@@ -1357,3 +1357,11 @@ foreignObject[mask*="mobile-80"]{width: 96px; height: 96px;}
 .header-145e10 .tab-TRrPC8{color: #fff;}
 .text-xs-medium-311pdh, .text-xs-normal-3O7EaX{color: #fff !important;}
 .body-380YWo{color: #fff;}
+.connections-pPr4as{padding-left: 16px;}
+.connection-9Gh4sa{width: 25px; height: 25px;}
+.verifiedBadge-mH2YpO{display: none;}
+.wrapper .controls{background: var(--backgroundColor) !important;}
+.wrapper .controls .caret{background-color: #0e122b !important;}
+.SAA-caret{color: #ff00e2 !important;}
+.wrapper .controls .carosell .dot.selected{background: #ff00e2 !important;}
+.wrapper .controls .carosell .dot{background: #0e122b !important;}
