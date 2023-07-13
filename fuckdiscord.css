@@ -1371,3 +1371,9 @@ foreignObject[mask*="mobile-80"]{width: 96px; height: 96px;}
 .hoverButtonGroup-2yZIzC{background-color: #161b44;}
 .link-1_kTxV svg{background: #ff00e2!important;}
 .wrapper-NhbLHG:hover .link-1_kTxV.link-1_kTxV svg{background: #161b44!important;}
+.colorDefault-2_rLdz .check-3-73a4, .colorDefault-2_rLdz.focused-3LIdPu{background: #161b44;}
+.colorDefault-2_rLdz.focused-3afm-j, .colorDefault-2_rLdz:hover:not(.hideInteraction-1iHO1O){color: #161b44;}
+.colorDefault-2_rLdz.focused-3LIdPu .caret-1TZU-U, .colorDefault-2_rLdz.focused-3LIdPu .checkbox-397WsK, .colorDefault-2_rLdz.focused-3LIdPu .radioSelection-3PDNAQ, .colorDefault-2_rLdz.focused-3LIdPu .subtext-1mqKVB{color: #161b44;}
+.focused-3LIdPu .label-3CEiKJ{color: #161b44;}
+.colorDefault-2_rLdz.focused-3LIdPu{background-color: #ff00e2 !important;}
+.colorDefault-2_rLdz .check-3-73a4, .colorDefault-2_rLdz.focused-3LIdPu{color: #161b44;}
