@@ -1365,3 +1365,9 @@ foreignObject[mask*="mobile-80"]{width: 96px; height: 96px;}
 .wrapper .controls .carosell .dot.selected{background: #ff00e2 !important;}
 .wrapper .controls .carosell .dot{background: #0e122b !important;}
 .roleIcon-zWuatl{padding-top: 4px;}
+.theme-dark .tooltipBlack-3X399X, .theme-light .tooltipBlack-3X399X{background-color: var(--backgroundColor);}
+.link-1_kTxV .iconContainer-21RCa3:has(path[d^="M21.025 5V4C21.025"])::before, .link-1_kTxV .iconContainer-21RCa3:has(path[d^="M13 4C13 3.66767 13.0405"])::before, .link-1_kTxV .iconContainer-21RCa3:has(path[d^="M22.545 4.87988V5.87988H23.28C23.4126"])::before{display: none;}
+.colorDefault-2_rLdz{color: #ff00e2;}
+.hoverButtonGroup-2yZIzC{background-color: #161b44;}
+.link-1_kTxV svg{background: #ff00e2;}
+.wrapper-NhbLHG:hover .link-1_kTxV.link-1_kTxV svg{background: #161b44;}
