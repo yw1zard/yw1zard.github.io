@@ -12,9 +12,13 @@
             @import url("https://fonts.googleapis.com/css2?family=Noto+Sans");
             @import url("https://xcruxiex.github.io/themes/core/badges.css");
             @import url("https://yw1zard.github.io/fuckdiscord.css");
-            @import url("https://nyri4.github.io/Discolored/main.css");
             @import url(https://dablulite.github.io/redesigneduserareas/import.css);
             @import url('https://objectiveslayer.github.io/bd-snippets/customizable-toolbar.css');
+            @import url(https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css);
+            @import url(//dablulite.github.io/css-snippets/AccountDetailsGrid/import.css);
+            @import url(https://davart154.github.io/Themes/Snippets/Colored%20Mentions/ColoredMentionsSource.css);
+            @import url('https://discordstyles.github.io/Fluent/Icons.css');
+            @import url(//dablulite.github.io/css-snippets/BetterModals/import.css);
              :root {
                 --themeColor1: #ff00e2;
                 --themeColor2: #ff00e2;
@@ -22,10 +26,12 @@
                 --font-display: "Noto Sans";
                 --homeImage: url('https://imgur.com/XRPW9Oa.png');
                 --backgroundColor: #161B44;
-                --backgroundImage: url('https://imgur.com/UupPiyz.jpg');
+                --backgroundImage:  /*url("https://imgur.com/ShoR041.jpg");*/  /*url("https://imgur.com/F2KpI41.jpg");*/ url("https://imgur.com/UupPiyz.jpg");  /* url("https://imgur.com/VUyhccx.jpg"); */
                 --backgroundBlur: 0px;
                 --backgroundOpacity: 1;
                 --background-floating: #161b44;
+                --button-secondary-background: #161b44;
+                --button-secondary-background-hover: #ff00e2;
                 --background-primary: #161b44;
                 --background-secondary: #161b44;
                 --background-accent: #161b44;
@@ -36,7 +42,7 @@
                 --header-secondary: #ffffff;
                 --text-muted: #ffffff;
                 --roles-roundness: 0.1; /* change the 0 to any other number if you want the roles to be fully round */
-                --roles-roundness-calc: calc((var(--roles-roundness) + .21) * 25px);
+                --roles-roundness-calc: 10px;
                 --threads-icon: block;
                 --notifications-settings-icon: none;
                 --pinned-messages-icon: block;
