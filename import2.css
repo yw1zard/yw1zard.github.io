@@ -1438,3 +1438,5 @@ foreignObject[mask*="mobile-80"]{width: 96px; height: 96px;}
 .focused-3LIdPu .label-3CEiKJ{color: #000;}
 .colorDefault-2_rLdz.focused-3LIdPu{background-color: #EB7752 !important;}
 .colorDefault-2_rLdz .check-3-73a4, .colorDefault-2_rLdz.focused-3LIdPu{color: #000;}
+.link-1_kTxV svg{background: none!important;}
+.wrapper-NhbLHG:hover .link-1_kTxV.link-1_kTxV svg{background: none!important;}
