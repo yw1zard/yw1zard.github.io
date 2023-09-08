@@ -1378,3 +1378,7 @@ foreignObject[mask*="mobile-80"]{width: 96px; height: 96px;}
 .colorDefault-2_rLdz .checkbox-397WsK, .colorDefault-2_rLdz .radioSelection-3PDNAQ{color: #ff00e2 !important;}
 .emoji{width: 1.575em;height: 1.575em; }
 .container-2oNtJn{background-color: #161b44;}
+.role-2TIOKu {transform: translate(0);overflow: hidden;border: 0;--transparency: .6;border-radius: 5px;}
+.role-2TIOKu .roleRemoveIcon-387wKV {margin: 0;left: unset;transform: translate(50%,-50%);}
+.role-2TIOKu .roleRemoveButton-17oXnT {position: static;}
+.role-2TIOKu .roleCircle-3TFUOr:after {content: '';top: 0;left: 0;z-index: -1;width: 100%;height: 100%;position: absolute;background: inherit;opacity: var(--transparency);}
