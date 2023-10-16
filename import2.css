@@ -1440,3 +1440,9 @@ foreignObject[mask*="mobile-80"]{width: 96px; height: 96px;}
 .colorDefault-2_rLdz .check-3-73a4, .colorDefault-2_rLdz.focused-3LIdPu{color: #000;}
 .link-1_kTxV svg{background: none!important;}
 .wrapper-NhbLHG:hover .link-1_kTxV.link-1_kTxV svg{background: none!important;}
+.channelTextArea-1deLlK{margin:0}
+.container-2vWgD2, .membersWrap-3GwLFp, .members-2y1nVj {width: 60px;position: relative;min-width: unset;transition: all .1s ease}
+.membersWrap-2h-GB4 .scrollerWrap-2lJEkd {width: 60px;}
+.members-2y1nVj:hover {width: 365px;}
+.membersGroup-2YoqY- {transition: all .1s ease;transform: translateX(100%)}
+.container-2vWgD2, .membersWrap-3GwLFp:hover .membersGroup-2YoqY- {transform: translateX(0)}
