@@ -1392,9 +1392,7 @@ foreignObject[mask*="mobile-80"]{width: 96px; height: 96px;}
 .membersListNotices-3yhEwx {max-width: 65px;}
 .members-2y1nVj {max-width: 65px;min-width: 65px;transition: 0.1s ease;}
 .members-2y1nVj:hover {max-width: 240px;min-width: 240px;}
-.toolbar-3_r2xA [aria-label = "Help"i] {display:none;}
-.toolbar-3_r2xA [aria-label="Inbox"i] {display:none;}
 .tutorialContainer-2jwoiB+.listItem-3SmSlK {display: none;}
 .membersGroup-2YoqY- {transition: all .1s ease;transform: translateX(100%)}
 .container-2vWgD2, .membersWrap-3GwLFp:hover .membersGroup-2YoqY- {transform: translateX(0)}
-.membersWrap-3GwLFp{min-width: unset;}
+.toolbar-3_r2xA [aria-label = "Help"i] {display:none;}
