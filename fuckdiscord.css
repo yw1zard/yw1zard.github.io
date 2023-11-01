@@ -1406,4 +1406,4 @@ foreignObject[mask*="mobile-80"]{width: 96px; height: 96px;}
 .container_b181b6{background: transparent;}
 .carouselModal_c0d5b7{background: transparent !important;border: none !important;}
 .popout__08442{border: 3px solid #ff00e2 !important;border-radius: 10px;}
-.form_a88d78{border: 3px solid #ff00e2 ;border-radius: 10px;}
+.root_a28985:not(:has(.imageWrapper_fd6587)){border: 3px solid #ff00e2 ;border-radius: 10px;}
