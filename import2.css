@@ -1444,7 +1444,7 @@ foreignObject[mask*="mobile-80"]{width: 96px; height: 96px;}
 .membersWrap__90226 {min-width: unset;}
 .membersListNotices_a4cb13 {max-width: 65px;}
 .members__9f47b {max-width: 65px;min-width: 65px;transition: 0.1s ease;}
-.members__9f47b:hover {max-width: 240px;min-width: 240px;}
+.members__9f47b:hover {max-width: 250px;min-width: 250px;}
 .tutorialContainer_dc6fde+.listItem_fa7b36 {display: none;}
 .membersGroup__85843 {transition: all .1s ease;transform: translateX(100%)}
 .container_b2ce9c, .membersWrap__90226:hover .membersGroup__85843 {transform: translateX(0)}
@@ -1456,7 +1456,6 @@ foreignObject[mask*="mobile-80"]{width: 96px; height: 96px;}
 .reaction_fef95b.reactionMe__98f57{background-color: #00000050;}
 .theme-dark .root_a28985 {border: none;}
 .root_a28985, .wrapper-2ZbzR9{background-color: transparent!important;}
-.focusLock__10aa5{background: #000;border: 3px solid #EB7752;border-radius: 10px;}
 .wrapper_cd625e{background-color: #000;}
 .container_b181b6{background: transparent;}
 .upperBadge_c7cfb3{right: -7px;}
@@ -1477,3 +1476,6 @@ foreignObject[mask*="mobile-80"]{width: 96px; height: 96px;}
 .interactive__776ee:hover .icon_d942d4{color: #000;}
 .interactiveSelected_ec846b .icon_d942d4{color: #EB7752;}
 .lowerBadge__669e7{right: -7px;}
+.addFriendSection__413d3{display: none;}
+.defaultColor__77578{color: #EB7752;}
+button.button__4f306{color: #000;}
