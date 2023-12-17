@@ -1433,3 +1433,6 @@ foreignObject[mask*="mobile-80"]{width: 96px; height: 96px;}
 .spriteContainer__5b044{--custom-emoji-sprite-bg-position: none;}
 .spriteContainer__5b044{--custom-emoji-sprite-bg-size:none;}
 .inactive_c5f2cb{opacity: 1;}
+.expressionPickerButtonDefault_eda6e6{background-color: #161b44;}
+.optionIcon__2b48d path {fill: #ff00e2;}
+.colorDefault__0b482:hover .optionIcon__2b48d path{fill: #161b44;}
