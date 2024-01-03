@@ -1438,3 +1438,9 @@ foreignObject[mask*="mobile-80"]{width: 96px; height: 96px;}
 .colorDefault__0b482:hover .optionIcon__2b48d path{fill: #161b44;}
 .popout__7a706{background-color: #161b44;}
 .popout__4c91f{background-color: #161b44;}
+.container__03857{background-color: var(--backgroundColor); border: 3px solid var(--themeColor1);}
+.channelName__9884c{color: var(--themeColor1) !important;}
+.statusText_e0f90b{color: var(--themeColor1);}
+.channelIcon_bf17cb{color: var(--themeColor1);}
+.spotifyButtonLogo__526f7{color: var(--themeColor1);}
+.button_b406e5{color: var(--themeColor1);}
