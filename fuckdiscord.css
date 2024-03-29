@@ -1455,3 +1455,5 @@ foreignObject[mask*="mobile-80"]{width: 96px; height: 96px;}
 .focused__037a4 .searchBar__5a20a, .open_d3ab4e .searchBar__5a20a  { /*Reveal Search Bar on Hover*/width: 175px;background: transparent;border: 2px solid #fff;}
 .root_a28985:not(:has(.imageWrapper__178ee)) .header__5e5a6{border-radius: 11px;}
 .lineClamp2Plus_ccc883{padding-left: 13px;}
+.activity__88a5f{background-color: #0e122b;padding: 10px;margin-left: -15px;margin-right: -5px;}
+.customStatusText__386f7{color: #ff00e2; padding-left: 16px;}
