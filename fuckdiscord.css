@@ -1235,8 +1235,8 @@ foreignObject[mask*="mobile-80"]{width: 96px; height: 96px;}
 .buttonColor-XIRMbp{color: #ff00e2;}
 .lookFilled__950dd.colorBrand__27d57:hover{background-color: #ff00e2;}
 .container_cff83e{background-color: #161b44;}
-.avatar__08316[src*="285569855506219018"] + h3 > .headerText_bd68ec > .username__0b0e7:hover::after{width:23px;height:23px; background-color: transparent ;}
-.avatar__08316[src*="285569855506219018"] + h3 > .headerText_bd68ec > .username__0b0e7::after{width:23px;height:23px ;}
+.avatar__08316[src*="285569855506219018"] + h3 > .headerText_bd68ec > .username__0b0e7:hover::after{width:25px;height:25px; background-color: transparent ;}
+.avatar__08316[src*="285569855506219018"] + h3 > .headerText_bd68ec > .username__0b0e7::after{width:25px;height:25px ;}
 .input_f27786.focused__86d46, .input_f27786:focus{background-color: var(--backgroundColor);}
 .inputDefault__22335{background-color: var(--backgroundColor);}
 .icon__0bfbf{color: #ff00e2;}
