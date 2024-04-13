@@ -1457,3 +1457,17 @@ foreignObject[mask*="mobile-80"]{width: 96px; height: 96px;}
 .activity__88a5f{background-color: #0e122b;padding: 10px;margin-left: -15px;margin-right: -5px;}
 .customStatusText__386f7{color: #ff00e2; padding-left: 16px;}
 .bannerSVGWrapper__8a38c foreignObject {mask: none;}
+#bd-modal-container {color: transparent;}
+#bd-modal-container > * {color: var(--header-secondary);}
+.customStatus__6a31a{padding-left: 16px;}
+.colorDefault_e361cf.focused_dcafb9 path{fill: #161b44 !important;}
+.profileMutuals__95dc2{display: none;}
+.panels__58331{.lottieIcon_c7076c :not(defs *)[fill][fill-opacity] {fill: white;}}
+.containerDefault_ae2ea4:hover + .container__342a0, .container__342a0:hover {
+  max-height: 1000px; /* Make the threads Slide down */
+  transition: max-height 1s ease; }
+
+.container__342a0 {
+  max-height: 0; /* Initially hide the threads by setting their max-height to 0 */
+  overflow: hidden; 
+  transition: max-height 0.0s ease; }
