@@ -1499,5 +1499,5 @@ foreignObject[mask*="mobile-80"]{width: 96px; height: 96px;}
 .link_ddbb36:hover .actionIcon_b149a2 path{fill: #161b44;}
 .botTagRegular_fc4b4a{background: #ff00e2;}
 .buttonsWrapper__77788{display: none;}
-.categoryIcon__3e47a{content: "";width: 24px;height: 24px;padding: 4px;justify-content: center;align-items: center;background-repeat: no-repeat;background-size: contain;background-position: center;background-image: url("https://imgur.com/XRPW9Oa.png");}
-.categoryIconIcon__18765{display: none;}
+.categoryIcon__3e47a[data-list-item-id=NO_LIST___soundboard_guild_0]{content:"";width:24px;background-color:transparent!important;height:24px;padding:4px;justify-content:center;align-items:center;background-repeat:no-repeat;background-size:contain;background-position:center;background-image:url("https://imgur.com/XRPW9Oa.png")}
+.categoryIcon__3e47a[data-list-item-id=NO_LIST___soundboard_guild_0]>.categoryIconIcon__18765{display:none}
