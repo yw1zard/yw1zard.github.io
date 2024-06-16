@@ -1531,3 +1531,13 @@ span.clanTag_f4aadc{display: none;}
 .theme-dark .statusBubbleOuter__7e51b, .theme-dark .statusBubbleOuter__7e51b:before, .theme-dark .statusBubbleOuter__7e51b:after{display: none;}
 .banner-2boKnS, .banner__6d414{width: 86% important;}
 .bannerPremium__69560{width: 257px !important;}
+.childWrapper__760c6:hover{background-color: transparent!important;}
+.wrapper_a6f950:hover .childWrapper__760c6, .wrapper_a6f950.selected_b420e6 .childWrapper__760c6{background-color: transparent!important;}
+.button__7b26d.visible__95288, .button__7b26d:focus-visible{display: none;}
+.secondary__51c2b{background-color: #0e122b;}
+.tertiary_c0d56f{background-color: #0e122b;}
+.root_a28985:not(:has(.imageWrapper__178ee)){border: none;}
+.wrapper__7f8df.biteSize__89563{display: none;}
+foreignObject[mask*="round-80"]{width: 80px; height: 80px;}
+.avatarHoverTarget__9b4a9 .wrapper__3ed10 {width: 80px!important; height: 80px!important;}
+.banner__6d414{margin-top: -21px;}
