@@ -1571,4 +1571,56 @@ foreignObject[mask*="round-80"]{width: 80px; height: 80px;}
 .name_a31c43{color: #fff;}
 .button_f7e168:hover{background-color: #ff00e2;}
 .button_f7e168:hover .icon_e986d9{color: #161b44;}
+.nowPlayingColumn_c2739c{margin-left: 0px; left: 0px;}
+.channelAppLauncher_df39bd {
+    display: none;
+}
+.openOnHover_c64476{
+    display: none;
+}
+.header_bc6acb{
+    display: none;
+}
+.header_ae1fa2{
+    display: none;
+}
+.heading-sm\/semibold_dc00ef{
+    color: #ff00e2 !important;
+}
+.timestamp_c5d1c1.bold_c5d1c1{
+    color: #ff00e2 !important;
+}
+.badgeContainer_d60c6d svg path{
+    fill: #ff00e2 !important;
+}
+.overlayBackground_c69a7b{
+    background-color: #0f122e!important;
+    margin: 9px -13px 16px;
+}
+.text-xs\/normal_dc00ef{
+    color: #ff00e2 !important;
+}
+.text-xs\/medium_dc00ef{
+    color: #ff00e2;
+}
+.nickname_c32acf.biteSize_c32acf, .nickname_c32acf.panel_c32acf{
+    color: #ff00e2;
+}
+
+.footer_aa1bff {
+    display: none !important;
+}
+:where(.banner_d5fdb1){width:300px;height:120px;background-image:url("https://imgur.com/uBOWbx6.gif")!important;background-repeat:no-repeat;background-position:50%;background-size:cover}
+.mask_d5fdb1 circle{display: none;}
+
+.channelBottomBarArea_a7d72e{margin-top: 30px;}
+.typing_d7ebeb{top: 5px;}
+
+
+
+.inner_c69a7b.biteSize_c69a7b{background-color: #161b44 !important;border: 3px solid #ff00e2 !important;}
+.custom-profile-theme .inner_c69a7b.biteSize_c69a7b{background: #161b44 !important;}
+.biteSizeBanner_c3e427{width:257px !important;height:138px;background-image:url("https://imgur.com/uBOWbx6.gif")!important;background-repeat:no-repeat;background-position:50%;background-size:cover}
+[role="img"][aria-label]:before{content:"";position:absolute;top:0;left:0;width:99%;height:99%;;z-index:20;border-radius:0;border:none!important}
+.activity_b8cc6d{background-color: #0e122b;padding: 10px;margin-left: -15px;margin-right: -5px;}
 
