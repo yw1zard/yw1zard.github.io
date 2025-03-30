@@ -1624,3 +1624,5 @@ foreignObject[mask*="round-80"]{width: 80px; height: 80px;}
 [role="img"][aria-label]:before{content:"";position:absolute;top:0;left:0;width:99%;height:99%;;z-index:20;border-radius:0;border:none!important}
 .activity__5be3e{background-color: #0e122b;padding: 10px;margin-left: -15px;margin-right: -5px;}
 
+.visual-refresh .wrapper_ef3116{transition:.1s ease;width:10px;display:flex}
+.visual-refresh .wrapper_ef3116:hover{width:72px}
