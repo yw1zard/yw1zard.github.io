@@ -1626,3 +1626,19 @@ foreignObject[mask*="round-80"]{width: 80px; height: 80px;}
 
 .visual-refresh .wrapper_ef3116{transition:.1s ease;width:10px;display:flex}
 .visual-refresh .wrapper_ef3116:hover{width:72px}
+
+.text-xs\/medium_cf4812{color: #fff;}
+.icon__8ac07{display: none;}
+
+.bd-notice{display: none;}
+
+.visual-refresh .container__01ae2{background-color: transparent;}
+.field__1fed1{background-color: var(--backgroundColor);}
+.user-profile-popout .inner_c0bea0{background-color: var(--backgroundColor);border: 4px solid #ff00e2;border-radius: 10px;}
+.visual-refresh .bg__960e4{background: var(--backgroundImage) !important;
+    background-repeat: var(--backgroundRepeat)!important;
+    background-size: var(--backgroundSize)!important;
+    background-image: var(--backgroundImage)!important;
+    opacity: var(--backgroundOpacity);
+    filter: blur(var(--backgroundBlur));
+}
