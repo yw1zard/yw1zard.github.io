@@ -1628,3 +1628,71 @@ foreignObject[mask*="round-80"]{width: 80px; height: 80px;}
 
 .visual-refresh .container__01ae2{background-color: transparent;}
 .field__1fed1{background-color: var(--backgroundColor);}
+.visual-refresh .bg__960e4{background: var(--backgroundImage) !important;
+    background-repeat: var(--backgroundRepeat)!important;
+    background-size: var(--backgroundSize)!important;
+    background-image: var(--backgroundImage)!important;
+    opacity: var(--backgroundOpacity);
+    filter: blur(var(--backgroundBlur));
+}
+.theme-dark.mouse-mode.full-motion.visual-refresh .message__5126c:hover, .theme-dark.visual-refresh .message__5126c.selected__5126c{background-color: var(--backgroundColor01)}
+
+.groupStart__5126c{margin-bottom: 12px;}
+:root {
+    /* --Voice Spine Settigs-- */
+    /* Determines the thickness of the line on the Voice User panel. Default: 3px */
+    --Spine-Thickness: 3px;
+
+    /* Shifts the Spine of not the last user by a certain amount. May need to be adjusted if used */
+    /* Alongside Better Channels List. Must be a Negative amount: Default: -35px */
+    --Spine-Upward-Margin: -35px;
+    
+    /* Determines the bluntness of the angle of for the last user. Default: 8px */
+    --Spine-Last-User-Angle: 8px;
+
+    /* Spine Accent Color. Set to var(--variable-name-zyx) to use a global var. */
+    /* Or set a color manually using RGB, Hex or HSL. Default: var(--brand-experiment) */
+    --Spine-Color: var(--brand-experiment)
+}
+
+/* Voice Spine Code */
+.list_c3cd7d  {
+    .draggable__55bab {
+        margin-left: -15px;
+        display: flex;
+        align-items: center;
+        &:not(:last-of-type):before {
+            content: "";
+            border-left: var(--Spine-Thickness) solid var(--Spine-Color);
+            margin-top: var(--Spine-Upward-Margin);
+            padding: 20px 5px;
+        }
+        &:last-of-type:before { 
+            content: "";
+            border-left: var(--Spine-Thickness) solid var(--Spine-Color);
+            border-bottom: var(--Spine-Thickness) solid var(--Spine-Color);
+            border-bottom-left-radius: 5px;
+            margin-top: -35px;
+            padding: 20px 5px;
+        }
+    }
+}
+.full-motion.app-focused:not(.hardware-acceleration-disabled) .animateGradient_e5de78 {
+    animation: unset;
+}
+
+.convenienceGlowGradientActive_e5de78:after {
+    content: unset;
+}
+
+.usernameGlow_e5de78 {
+    opacity: 0 !important;
+}
+
+.chat_f02135{background-color:var(--backgroundColor02)}
+.icon__6e9f8,.childWrapper__6e9f8 {
+    border-radius: 0px !important;
+}
+.iconInactive_f34534 {
+    border-radius: 0px !important;
+}
