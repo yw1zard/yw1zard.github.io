@@ -12,13 +12,15 @@
             @import url("https://fonts.googleapis.com/css2?family=Noto+Sans");
             @import url("https://xcruxiex.github.io/themes/core/badges.css");
             @import url("https://yw1zard.github.io/fuckdiscord.css");
-            @import url(https://dablulite.github.io/redesigneduserareas/import.css);
-            @import url('https://objectiveslayer.github.io/bd-snippets/customizable-toolbar.css');
-            @import url(https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css);
-            @import url(//dablulite.github.io/css-snippets/AccountDetailsGrid/import.css);
-            @import url(https://davart154.github.io/Themes/Snippets/Colored%20Mentions/ColoredMentionsSource.css);
+            @import url("https://dablulite.github.io/redesigneduserareas/import.css");
+            @import url("https://objectiveslayer.github.io/bd-snippets/customizable-toolbar.css");
+            @import url("https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css");
+            @import url("https//dablulite.github.io/css-snippets/AccountDetailsGrid/import.css");
+            @import url("https://davart154.github.io/Themes/Snippets/Colored%20Mentions/ColoredMentionsSource.css");
             @import url('https://discordstyles.github.io/Fluent/Icons.css');
-            @import url(//dablulite.github.io/css-snippets/BetterModals/import.css);
+            @import url("https//dablulite.github.io/css-snippets/BetterModals/import.css");
+            @import url("https://davart154.github.io/Themes/Snippets/Chat%20Bar%20Context%20Menu/ChatContextMenuSource.css");
+
              :root {
                 --themeColor1: #ff00e2;
                 --themeColor2: #ff00e2;
